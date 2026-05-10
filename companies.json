@@ -1,0 +1,1903 @@
+[
+  {
+    "company": "Ramp",
+    "linkedin": "https://www.linkedin.com/company/ramp",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Sam Buck",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/sam-buck-19424969",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Amber Endicott",
+        "job_title": "Senior Strategic Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/amberendicott",
+        "location": {
+          "city": "Delaware",
+          "state_code": "OH",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Strategic Events Manager @ Ramp"
+      },
+      {
+        "full_name": "Jacob Söderstjerna",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/jacob-s%c3%b6derstjerna-74789342",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff at Ramp"
+      }
+    ]
+  },
+  {
+    "company": "Alloy",
+    "linkedin": "https://www.linkedin.com/company/alloy-com",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Petal",
+    "linkedin": "https://www.linkedin.com/company/petal-card",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Fundrise",
+    "linkedin": "https://www.linkedin.com/company/fundrise",
+    "industry": "Investment Management",
+    "people": [
+      {
+        "full_name": "Megan Prescott",
+        "job_title": "Chief of Staff to the CMO",
+        "linkedin_url": "https://www.linkedin.com/in/megan-prescott-4aa52614",
+        "location": {
+          "city": "Winter Garden",
+          "state_code": "FL",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "company": "Yieldstreet",
+    "linkedin": "https://www.linkedin.com/company/yieldstreet",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Vestwell",
+    "linkedin": "https://www.linkedin.com/company/vestwell",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Wendy W.",
+        "job_title": "Events Marketing Manager",
+        "linkedin_url": "https://www.linkedin.com/in/wendywu02",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Marketing Manager"
+      }
+    ]
+  },
+  {
+    "company": "Ocrolus",
+    "linkedin": "https://www.linkedin.com/company/ocrolus",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Capitolis",
+    "linkedin": "https://www.linkedin.com/company/capitolis",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Justworks",
+    "linkedin": "https://www.linkedin.com/company/justworks",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Movable Ink",
+    "linkedin": "https://www.linkedin.com/company/movable-ink",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Melanie Acuña",
+        "job_title": "Travel & Internal Events",
+        "linkedin_url": "https://www.linkedin.com/in/melanie-anne-acuna",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "company": "BetterCloud",
+    "linkedin": "https://www.linkedin.com/company/bettercloud",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Persado",
+    "linkedin": "https://www.linkedin.com/company/persado",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Bluecore",
+    "linkedin": "https://www.linkedin.com/company/bluecore-inc-",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Dataminr",
+    "linkedin": "https://www.linkedin.com/company/dataminr",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Roshan Leslie",
+        "job_title": "Senior Director, Customer and Brand Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/roshanleslie",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Camille Boley",
+        "job_title": "Events Marketing Intern",
+        "linkedin_url": "https://www.linkedin.com/in/camille-boley-2b215a240",
+        "location": {
+          "city": "Westport",
+          "state_code": "CT",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Marketing Intern at Dataminr"
+      }
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "linkedin": "https://www.linkedin.com/company/sprinklr",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Kristin Nash",
+        "job_title": "Global Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/kristin-nash",
+        "location": {
+          "city": "Frazee",
+          "state_code": "MN",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Planning Sprinklr events across the Globe!! CXUnifiers 2025 is coming....can't wait to share updates!"
+      },
+      {
+        "full_name": "Natalie Stewart",
+        "job_title": "Executive Assistant to C-suite",
+        "linkedin_url": "https://www.linkedin.com/in/nataliestew",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Executive Assistant - Professional by nature, prepared by habit, funny by survival."
+      }
+    ]
+  },
+  {
+    "company": "Bombas",
+    "linkedin": "https://www.linkedin.com/company/bombas",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Charlotte Steglitz",
+        "job_title": "Brand Marketing Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/charlotte-steglitz",
+        "location": {
+          "city": "Ann Arbor",
+          "state_code": "MI",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Brand Marketing at Bombas"
+      },
+      {
+        "full_name": "Emily Hofstetter",
+        "job_title": "Chief Communications Officer, Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/emilyhofstetter",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "company": "Magic Spoon",
+    "linkedin": "https://www.linkedin.com/company/magic-spoon",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Caraway",
+    "linkedin": "https://www.linkedin.com/company/caraway-home",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "company": "Hu Kitchen",
+    "linkedin": "https://www.linkedin.com/company/hu-products",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Hill House Home",
+    "linkedin": "https://www.linkedin.com/company/hill-house-home",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Faherty Brand",
+    "linkedin": "https://www.linkedin.com/company/faherty-brand",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Jacqueline Golding",
+        "job_title": "Senior Marketing Manager, Brand Experiential",
+        "linkedin_url": "https://www.linkedin.com/in/jacquelinegolding",
+        "location": {
+          "city": "Los Angeles",
+          "state_code": "CA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "company": "Boll & Branch",
+    "linkedin": "https://www.linkedin.com/company/boll-and-branch",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "company": "Parade",
+    "linkedin": "https://www.linkedin.com/company/yourparade",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Zoe Cohen",
+        "job_title": "Director of Brand Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/zoe-cohen-174928244",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Director Of Brand Marketing at Parade"
+      }
+    ]
+  },
+  {
+    "company": "Patterson Belknap Webb & Tyler LLP",
+    "linkedin": "https://www.linkedin.com/company/patterson-belknap-webb-&-tyler-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Kramer Levin Naftalis & Frankel LLP",
+    "linkedin": "https://www.linkedin.com/company/kramer-levin-naftalis-&-frankel-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Schulte Roth & Zabel LLP",
+    "linkedin": "https://www.linkedin.com/company/schulte-roth-&-zabel-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Cahill Gordon & Reindel LLP",
+    "linkedin": "https://www.linkedin.com/company/cahill-gordon-&-reindel-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Fried, Frank, Harris, Shriver & Jacobson LLP",
+    "linkedin": "https://www.linkedin.com/company/fried-frank",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Willkie Farr & Gallagher LLP",
+    "linkedin": "https://www.linkedin.com/company/willkie-farr-&-gallagher-llp",
+    "industry": "Law Practice",
+    "people": [
+      {
+        "full_name": "Josie G.",
+        "job_title": "Events Assistant",
+        "linkedin_url": "https://www.linkedin.com/in/josie-giorgio",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Event Assistant @ Willkie Farr & Gallagher LLP | Bachelor of Business Administration- Arts & Entertainment Management"
+      },
+      {
+        "full_name": "Talia Roland-Kalb",
+        "job_title": "Office Administration & Events Specialist",
+        "linkedin_url": "https://www.linkedin.com/in/talia-roland-kalb-425b96130",
+        "location": {
+          "city": "Chicago",
+          "state_code": "IL",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Office Administration & Events Specialist. Creative Problem-Solver. Hands-On Collaborator. Avid Restaurant Goer."
+      }
+    ]
+  },
+  {
+    "company": "Proskauer Rose LLP",
+    "linkedin": "https://www.linkedin.com/company/proskauer-rose-llp",
+    "industry": "Law Practice",
+    "people": [
+      {
+        "full_name": "Sarah Nugent",
+        "job_title": "Events Specialist",
+        "linkedin_url": "https://www.linkedin.com/in/sarahrnugent",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events at Proskauer"
+      },
+      {
+        "full_name": "Marissa Tillem",
+        "job_title": "Chief of Staff to the Office of the Chair",
+        "linkedin_url": "https://www.linkedin.com/in/marissatillem",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff to the Office of the Chair at Proskauer Rose LLP"
+      },
+      {
+        "full_name": "Kathleen Maiorana",
+        "job_title": "Events Specialist",
+        "linkedin_url": "https://www.linkedin.com/in/kathleen-maiorana-46aaa0b",
+        "location": {
+          "city": "Jersey City",
+          "state_code": "NJ",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Specialist at Proskauer Rose LLP"
+      }
+    ]
+  },
+  {
+    "company": "Betterment",
+    "linkedin": "https://www.linkedin.com/company/betterment",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Stash",
+    "linkedin": "https://www.linkedin.com/company/stash-financial-inc",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Public.com",
+    "linkedin": "https://www.linkedin.com/company/public-com",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "company": "Ellevest",
+    "linkedin": "https://www.linkedin.com/company/ellevest",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "MoneyLion",
+    "linkedin": "https://www.linkedin.com/company/moneylion",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "iCapital",
+    "linkedin": "https://www.linkedin.com/company/icapital-network",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Trumid",
+    "linkedin": "https://www.linkedin.com/company/trumid",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "company": "Republic",
+    "linkedin": "https://www.linkedin.com/company/joinrepublic",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "company": "Better",
+    "linkedin": "https://www.linkedin.com/company/better",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Lemonade",
+    "linkedin": "https://www.linkedin.com/company/lemonade-inc-",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "company": "Policygenius",
+    "linkedin": "https://www.linkedin.com/company/policygenius",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "company": "Ladder",
+    "linkedin": "https://www.linkedin.com/company/laddercorp",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "company": "CoverWallet",
+    "linkedin": "https://www.linkedin.com/company/coverwallet",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "company": "Rho",
+    "linkedin": "https://www.linkedin.com/company/rhobusiness",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Tropic",
+    "linkedin": "https://www.linkedin.com/company/tropicapp",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Lithic",
+    "linkedin": "https://www.linkedin.com/company/lithic-inc",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Esusu",
+    "linkedin": "https://www.linkedin.com/company/esusufinancial",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Current",
+    "linkedin": "https://www.linkedin.com/company/current",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Cadre",
+    "linkedin": "https://www.linkedin.com/company/cadre",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "SmartAsset",
+    "linkedin": "https://www.linkedin.com/company/smartasset-com",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Fireblocks",
+    "linkedin": "https://www.linkedin.com/company/fireblocks",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Chainalysis",
+    "linkedin": "https://www.linkedin.com/company/chainalysis",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Galaxy Digital",
+    "linkedin": "https://www.linkedin.com/company/galaxy-digital",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Liquidnet",
+    "linkedin": "https://www.linkedin.com/company/liquidnet",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "company": "AlphaSense",
+    "linkedin": "https://www.linkedin.com/company/alphasense",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Capchase",
+    "linkedin": "https://www.linkedin.com/company/capchase",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Pagaya",
+    "linkedin": "https://www.linkedin.com/company/pagaya-investments",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Symphony",
+    "linkedin": "https://www.linkedin.com/company/symphony-communication-services",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Arcesium",
+    "linkedin": "https://www.linkedin.com/company/arcesium",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Vise",
+    "linkedin": "https://www.linkedin.com/company/visefin",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "company": "Bond Financial Technologies",
+    "linkedin": "https://www.linkedin.com/company/bondfinancialtechnologies",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Brigit",
+    "linkedin": "https://www.linkedin.com/company/hellobrigit",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Unit",
+    "linkedin": "https://www.linkedin.com/company/unitbanking",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Tower Research Capital",
+    "linkedin": "https://www.linkedin.com/company/tower-research-capital-llc",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Pico",
+    "linkedin": "https://www.linkedin.com/company/pico-quantitative-trading",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "company": "Axoni",
+    "linkedin": "https://www.linkedin.com/company/axoni",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Gemini",
+    "linkedin": "https://www.linkedin.com/company/gemini-trust-company-llc",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "NYDIG",
+    "linkedin": "https://www.linkedin.com/company/nydig",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Paxos",
+    "linkedin": "https://www.linkedin.com/company/paxos",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Octane Lending",
+    "linkedin": "https://www.linkedin.com/company/octane-lending",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "EquityZen",
+    "linkedin": "https://www.linkedin.com/company/equityzen",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Unqork",
+    "linkedin": "https://www.linkedin.com/company/unqork",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "MarketAxess",
+    "linkedin": "https://www.linkedin.com/company/marketaxess",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "company": "Tradeweb",
+    "linkedin": "https://www.linkedin.com/company/tradeweb",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "company": "Cohen & Steers",
+    "linkedin": "https://www.linkedin.com/company/cohen-&-steers",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "company": "Greenhill & Co.",
+    "linkedin": "https://www.linkedin.com/company/greenhill-&-co.",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "company": "ExodusPoint Capital Management",
+    "linkedin": "https://www.linkedin.com/company/exoduspoint-capital-management",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Schonfeld Strategic Advisors",
+    "linkedin": "https://www.linkedin.com/company/schonfeld-strategic-advisors",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Marathon Asset Management",
+    "linkedin": "https://www.linkedin.com/company/marathon-asset-management",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "company": "Pretium Partners",
+    "linkedin": "https://www.linkedin.com/company/pretium-partners",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "company": "CB Insights",
+    "linkedin": "https://www.linkedin.com/company/cb-insights",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "StoneX Group",
+    "linkedin": "https://www.linkedin.com/company/stonex-group",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Capitalize",
+    "linkedin": "https://www.linkedin.com/company/hicapitalize",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Tomo",
+    "linkedin": "https://www.linkedin.com/company/tomonetworks",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "DailyPay",
+    "linkedin": "https://www.linkedin.com/company/dailypay",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Global Atlantic Financial Group",
+    "linkedin": "https://www.linkedin.com/company/global-atlantic-financial-group",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "company": "Nayya",
+    "linkedin": "https://www.linkedin.com/company/nayyahealth",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "company": "Fabric",
+    "linkedin": "https://www.linkedin.com/company/fabric-insurance",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "company": "Yotpo",
+    "linkedin": "https://www.linkedin.com/company/yotpo",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Rokt",
+    "linkedin": "https://www.linkedin.com/company/rokt",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "LiveIntent",
+    "linkedin": "https://www.linkedin.com/company/liveintent",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Yieldmo",
+    "linkedin": "https://www.linkedin.com/company/yieldmo",
+    "industry": "Advertising Services",
+    "people": []
+  },
+  {
+    "company": "Foursquare",
+    "linkedin": "https://www.linkedin.com/company/foursquare",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Bowery Farming",
+    "linkedin": "https://www.linkedin.com/company/bowery-farming-inc-",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Cockroach Labs",
+    "linkedin": "https://www.linkedin.com/company/cockroach-labs",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Greenhouse Software",
+    "linkedin": "https://www.linkedin.com/company/greenhouse-software",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Astronomer",
+    "linkedin": "https://www.linkedin.com/company/astronomerio",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Sisense",
+    "linkedin": "https://www.linkedin.com/company/sisense",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Eko",
+    "linkedin": "https://www.linkedin.com/company/eko-com",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Zola",
+    "linkedin": "https://www.linkedin.com/company/zola",
+    "industry": "Internet Marketplace Platforms",
+    "people": []
+  },
+  {
+    "company": "Kasisto",
+    "linkedin": "https://www.linkedin.com/company/kasisto",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Chartbeat",
+    "linkedin": "https://www.linkedin.com/company/chartbeat",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Latch",
+    "linkedin": "https://www.linkedin.com/company/latch-inc-",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "TripleLift",
+    "linkedin": "https://www.linkedin.com/company/triplelift",
+    "industry": "Advertising Services",
+    "people": []
+  },
+  {
+    "company": "Connatix",
+    "linkedin": "https://www.linkedin.com/company/connatix",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Vimeo",
+    "linkedin": "https://www.linkedin.com/company/vimeo-com",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Loadsmart",
+    "linkedin": "https://www.linkedin.com/company/loadsmart",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Kustomer",
+    "linkedin": "https://www.linkedin.com/company/kustomer",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Wunderkind",
+    "linkedin": "https://www.linkedin.com/company/wunderkind",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "mParticle",
+    "linkedin": "https://www.linkedin.com/company/mparticle",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Forter",
+    "linkedin": "https://www.linkedin.com/company/forter",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Smartling",
+    "linkedin": "https://www.linkedin.com/company/smartling",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Aircall",
+    "linkedin": "https://www.linkedin.com/company/aircall",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Attentive",
+    "linkedin": "https://www.linkedin.com/company/attentive-mobile",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Hinge",
+    "linkedin": "https://www.linkedin.com/company/hingeapp",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "SeatGeek",
+    "linkedin": "https://www.linkedin.com/company/seatgeek",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "1stDibs",
+    "linkedin": "https://www.linkedin.com/company/1stdibs.com",
+    "industry": "Internet Marketplace Platforms",
+    "people": []
+  },
+  {
+    "company": "Beacons",
+    "linkedin": "https://www.linkedin.com/company/beacons-ai",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Beehiiv",
+    "linkedin": "https://www.linkedin.com/company/beehiiv",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Andela",
+    "linkedin": "https://www.linkedin.com/company/andela",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "LiveAuctioneers",
+    "linkedin": "https://www.linkedin.com/company/liveauctioneers",
+    "industry": "Internet Marketplace Platforms",
+    "people": []
+  },
+  {
+    "company": "Codecademy",
+    "linkedin": "https://www.linkedin.com/company/codecademy",
+    "industry": "E-Learning Providers",
+    "people": []
+  },
+  {
+    "company": "Skillshare",
+    "linkedin": "https://www.linkedin.com/company/skillshare",
+    "industry": "E-Learning Providers",
+    "people": []
+  },
+  {
+    "company": "General Assembly",
+    "linkedin": "https://www.linkedin.com/company/general-assembly",
+    "industry": "E-Learning Providers",
+    "people": []
+  },
+  {
+    "company": "Glossier",
+    "linkedin": "https://www.linkedin.com/company/glossier",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Harry's",
+    "linkedin": "https://www.linkedin.com/company/harry-s",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Saie Beauty",
+    "linkedin": "https://www.linkedin.com/company/saie-beauty",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Westman Atelier",
+    "linkedin": "https://www.linkedin.com/company/westman-atelier",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Bubble Skincare",
+    "linkedin": "https://www.linkedin.com/company/bubbleskincare",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Wander Beauty",
+    "linkedin": "https://www.linkedin.com/company/wander-beauty",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Tula Skincare",
+    "linkedin": "https://www.linkedin.com/company/tula",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Mented Cosmetics",
+    "linkedin": "https://www.linkedin.com/company/mentedcosmetics",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Pat McGrath Labs",
+    "linkedin": "https://www.linkedin.com/company/pat-mcgrath-labs",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Function of Beauty",
+    "linkedin": "https://www.linkedin.com/company/function-of-beauty",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Prose",
+    "linkedin": "https://www.linkedin.com/company/prosehair",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Maude",
+    "linkedin": "https://www.linkedin.com/company/getmaude",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Dame Products",
+    "linkedin": "https://www.linkedin.com/company/dame-products",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Ami Colé",
+    "linkedin": "https://www.linkedin.com/company/amicole",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Briogeo",
+    "linkedin": "https://www.linkedin.com/company/briogeo-hair-care",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Le Labo",
+    "linkedin": "https://www.linkedin.com/company/le-labo",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "D.S. & Durga",
+    "linkedin": "https://www.linkedin.com/company/d-s-durga",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Ellis Brooklyn",
+    "linkedin": "https://www.linkedin.com/company/ellis-brooklyn",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Snif",
+    "linkedin": "https://www.linkedin.com/company/snif",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Apotheke",
+    "linkedin": "https://www.linkedin.com/company/apothekeco",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Untuckit",
+    "linkedin": "https://www.linkedin.com/company/untuckit",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Mack Weldon",
+    "linkedin": "https://www.linkedin.com/company/mack-weldon",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "CUUP",
+    "linkedin": "https://www.linkedin.com/company/shopcuup",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Adore Me",
+    "linkedin": "https://www.linkedin.com/company/adore-me",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Negative Underwear",
+    "linkedin": "https://www.linkedin.com/company/negative-underwear",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Universal Standard",
+    "linkedin": "https://www.linkedin.com/company/universal-standard",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "M.M.LaFleur",
+    "linkedin": "https://www.linkedin.com/company/m-m-lafleur",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Veronica Beard",
+    "linkedin": "https://www.linkedin.com/company/veronica-beard",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Ulla Johnson",
+    "linkedin": "https://www.linkedin.com/company/ulla-johnson",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Tibi",
+    "linkedin": "https://www.linkedin.com/company/tibi",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Khaite",
+    "linkedin": "https://www.linkedin.com/company/khaite",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Rebecca Minkoff",
+    "linkedin": "https://www.linkedin.com/company/rebecca-minkoff",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Eileen Fisher",
+    "linkedin": "https://www.linkedin.com/company/eileen-fisher",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Thursday Boot Company",
+    "linkedin": "https://www.linkedin.com/company/thursday-boot-company",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Felix Gray",
+    "linkedin": "https://www.linkedin.com/company/felix-gray",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Telfar",
+    "linkedin": "https://www.linkedin.com/company/telfar-global",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Dagne Dover",
+    "linkedin": "https://www.linkedin.com/company/dagne-dover",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "STATE Bags",
+    "linkedin": "https://www.linkedin.com/company/statebags",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Bandier",
+    "linkedin": "https://www.linkedin.com/company/bandier",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Aimé Leon Dore",
+    "linkedin": "https://www.linkedin.com/company/aime-leon-dore",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Kith",
+    "linkedin": "https://www.linkedin.com/company/kithnyc",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Bode New York",
+    "linkedin": "https://www.linkedin.com/company/bode-new-york",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Diane von Furstenberg",
+    "linkedin": "https://www.linkedin.com/company/diane-von-furstenberg",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Vince",
+    "linkedin": "https://www.linkedin.com/company/vince",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Brandon Blackwood",
+    "linkedin": "https://www.linkedin.com/company/brandon-blackwood-new-york",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Catbird",
+    "linkedin": "https://www.linkedin.com/company/catbirdnyc",
+    "industry": "Retail Luxury Goods and Jewelry",
+    "people": []
+  },
+  {
+    "company": "Aurate",
+    "linkedin": "https://www.linkedin.com/company/auratenewyork",
+    "industry": "Retail Luxury Goods and Jewelry",
+    "people": []
+  },
+  {
+    "company": "BaubleBar",
+    "linkedin": "https://www.linkedin.com/company/baublebar",
+    "industry": "Retail Luxury Goods and Jewelry",
+    "people": []
+  },
+  {
+    "company": "Daily Harvest",
+    "linkedin": "https://www.linkedin.com/company/daily-harvest",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Goldbelly",
+    "linkedin": "https://www.linkedin.com/company/goldbely",
+    "industry": "Internet Marketplace Platforms",
+    "people": []
+  },
+  {
+    "company": "Sakara Life",
+    "linkedin": "https://www.linkedin.com/company/sakara-life",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Athletic Greens (AG1)",
+    "linkedin": "https://www.linkedin.com/company/athletic-greens",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Vita Coco",
+    "linkedin": "https://www.linkedin.com/company/the-vita-coco-company",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Van Leeuwen Ice Cream",
+    "linkedin": "https://www.linkedin.com/company/van-leeuwen-ice-cream",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Banza",
+    "linkedin": "https://www.linkedin.com/company/eatbanza",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Three Wishes Cereal",
+    "linkedin": "https://www.linkedin.com/company/three-wishes-cereal",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Momofuku Goods",
+    "linkedin": "https://www.linkedin.com/company/momofukugoods",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Recess",
+    "linkedin": "https://www.linkedin.com/company/takearecess",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Sweet Loren's",
+    "linkedin": "https://www.linkedin.com/company/sweet-loren-s",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Joe Coffee Company",
+    "linkedin": "https://www.linkedin.com/company/joe-coffee-company",
+    "industry": "Food and Beverage Services",
+    "people": []
+  },
+  {
+    "company": "Gregorys Coffee",
+    "linkedin": "https://www.linkedin.com/company/gregorys-coffee",
+    "industry": "Food and Beverage Services",
+    "people": []
+  },
+  {
+    "company": "Cha Cha Matcha",
+    "linkedin": "https://www.linkedin.com/company/cha-cha-matcha",
+    "industry": "Food and Beverage Services",
+    "people": []
+  },
+  {
+    "company": "Brooklyn Brewery",
+    "linkedin": "https://www.linkedin.com/company/brooklyn-brewery",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Hungryroot",
+    "linkedin": "https://www.linkedin.com/company/hungryroot",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Little Spoon",
+    "linkedin": "https://www.linkedin.com/company/little-spoon",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "The Sill",
+    "linkedin": "https://www.linkedin.com/company/the-sill",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "company": "Burrow",
+    "linkedin": "https://www.linkedin.com/company/hiburrow",
+    "industry": "Retail Furniture and Home Furnishings",
+    "people": []
+  },
+  {
+    "company": "Public Goods",
+    "linkedin": "https://www.linkedin.com/company/public-goods",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "company": "Snowe Home",
+    "linkedin": "https://www.linkedin.com/company/snowe",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "company": "Lalo",
+    "linkedin": "https://www.linkedin.com/company/meetlalo",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "company": "BARK",
+    "linkedin": "https://www.linkedin.com/company/barkbox",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "company": "The Farmer's Dog",
+    "linkedin": "https://www.linkedin.com/company/the-farmer's-dog",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Ollie",
+    "linkedin": "https://www.linkedin.com/company/myollie",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Casper",
+    "linkedin": "https://www.linkedin.com/company/casper-sleep",
+    "industry": "Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Quip",
+    "linkedin": "https://www.linkedin.com/company/getquip",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Jambys",
+    "linkedin": "https://www.linkedin.com/company/jambys",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Loftie",
+    "linkedin": "https://www.linkedin.com/company/byloftie",
+    "industry": "Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Levels Health",
+    "linkedin": "https://www.linkedin.com/company/levelshealth",
+    "industry": "Wellness and Fitness Services",
+    "people": []
+  },
+  {
+    "company": "Cravath, Swaine & Moore LLP",
+    "linkedin": "https://www.linkedin.com/company/cravath-swaine-&-moore-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Sullivan & Cromwell LLP",
+    "linkedin": "https://www.linkedin.com/company/sullivan-&-cromwell-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Skadden, Arps, Slate, Meagher & Flom LLP",
+    "linkedin": "https://www.linkedin.com/company/skadden",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Davis Polk & Wardwell LLP",
+    "linkedin": "https://www.linkedin.com/company/davis-polk-&-wardwell-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Paul, Weiss, Rifkind, Wharton & Garrison LLP",
+    "linkedin": "https://www.linkedin.com/company/paul-weiss",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Simpson Thacher & Bartlett LLP",
+    "linkedin": "https://www.linkedin.com/company/simpson-thacher-&-bartlett-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Wachtell, Lipton, Rosen & Katz",
+    "linkedin": "https://www.linkedin.com/company/wachtell-lipton-rosen-&-katz",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Weil, Gotshal & Manges LLP",
+    "linkedin": "https://www.linkedin.com/company/weil-gotshal-&-manges-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Milbank LLP",
+    "linkedin": "https://www.linkedin.com/company/milbank-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Cleary Gottlieb Steen & Hamilton LLP",
+    "linkedin": "https://www.linkedin.com/company/cleary-gottlieb-steen-&-hamilton-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Debevoise & Plimpton LLP",
+    "linkedin": "https://www.linkedin.com/company/debevoise-&-plimpton-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "White & Case LLP",
+    "linkedin": "https://www.linkedin.com/company/white-&-case",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Hughes Hubbard & Reed LLP",
+    "linkedin": "https://www.linkedin.com/company/hughes-hubbard-&-reed-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Curtis, Mallet-Prevost, Colt & Mosle LLP",
+    "linkedin": "https://www.linkedin.com/company/curtis-mallet-prevost-colt-&-mosle-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Kelley Drye & Warren LLP",
+    "linkedin": "https://www.linkedin.com/company/kelley-drye-&-warren-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Olshan Frome Wolosky LLP",
+    "linkedin": "https://www.linkedin.com/company/olshan-frome-wolosky-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Tannenbaum Helpern Syracuse & Hirschtritt LLP",
+    "linkedin": "https://www.linkedin.com/company/tannenbaum-helpern-syracuse-&-hirschtritt-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Cohen & Gresser LLP",
+    "linkedin": "https://www.linkedin.com/company/cohen-&-gresser-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Boies Schiller Flexner LLP",
+    "linkedin": "https://www.linkedin.com/company/boies-schiller-flexner-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Kasowitz Benson Torres LLP",
+    "linkedin": "https://www.linkedin.com/company/kasowitz-benson-torres-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Kobre & Kim",
+    "linkedin": "https://www.linkedin.com/company/kobre-&-kim",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Selendy Gay PLLC",
+    "linkedin": "https://www.linkedin.com/company/selendy-gay-pllc",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Pryor Cashman LLP",
+    "linkedin": "https://www.linkedin.com/company/pryor-cashman-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Herrick, Feinstein LLP",
+    "linkedin": "https://www.linkedin.com/company/herrick-feinstein-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Tarter Krinsky & Drogin LLP",
+    "linkedin": "https://www.linkedin.com/company/tarter-krinsky-&-drogin-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Rosenberg & Estis, P.C.",
+    "linkedin": "https://www.linkedin.com/company/rosenberg-&-estis-p.c.",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Reitler Kailas & Rosenblatt LLP",
+    "linkedin": "https://www.linkedin.com/company/reitler-kailas-&-rosenblatt-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Mintz & Gold LLP",
+    "linkedin": "https://www.linkedin.com/company/mintz-&-gold-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Morrison Cohen LLP",
+    "linkedin": "https://www.linkedin.com/company/morrison-cohen-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Otterbourg P.C.",
+    "linkedin": "https://www.linkedin.com/company/otterbourg-p.c.",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Friedman Kaplan Seiler & Adelman LLP",
+    "linkedin": "https://www.linkedin.com/company/friedman-kaplan-seiler-&-adelman-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Kleinberg, Kaplan, Wolff & Cohen, P.C.",
+    "linkedin": "https://www.linkedin.com/company/kleinberg-kaplan-wolff-&-cohen-p.c.",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Sive, Paget & Riesel, P.C.",
+    "linkedin": "https://www.linkedin.com/company/sive-paget-&-riesel-p.c.",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Frankfurt Kurnit Klein & Selz",
+    "linkedin": "https://www.linkedin.com/company/frankfurt-kurnit-klein-&-selz",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Davis & Gilbert LLP",
+    "linkedin": "https://www.linkedin.com/company/davis-&-gilbert-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Insight Partners",
+    "linkedin": "https://www.linkedin.com/company/insight-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Warburg Pincus",
+    "linkedin": "https://www.linkedin.com/company/warburg-pincus",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Tiger Global Management",
+    "linkedin": "https://www.linkedin.com/company/tiger-global-management-llc",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Coatue Management",
+    "linkedin": "https://www.linkedin.com/company/coatue-management",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Cerberus Capital Management",
+    "linkedin": "https://www.linkedin.com/company/cerberus-capital-management",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "company": "Centerbridge Partners",
+    "linkedin": "https://www.linkedin.com/company/centerbridge-partners-l.p.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Oak Hill Capital",
+    "linkedin": "https://www.linkedin.com/company/oak-hill-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "New Mountain Capital",
+    "linkedin": "https://www.linkedin.com/company/new-mountain-capital",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Welsh, Carson, Anderson & Stowe",
+    "linkedin": "https://www.linkedin.com/company/welsh-carson-anderson-&-stowe",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Lindsay Goldberg",
+    "linkedin": "https://www.linkedin.com/company/lindsay-goldberg",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Crestview Partners",
+    "linkedin": "https://www.linkedin.com/company/crestview-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "American Securities",
+    "linkedin": "https://www.linkedin.com/company/american-securities",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Court Square Capital Partners",
+    "linkedin": "https://www.linkedin.com/company/court-square-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Clayton, Dubilier & Rice",
+    "linkedin": "https://www.linkedin.com/company/clayton-dubilier-&-rice",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Veritas Capital",
+    "linkedin": "https://www.linkedin.com/company/veritas-capital",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Blue Owl Capital",
+    "linkedin": "https://www.linkedin.com/company/blue-owl-capital",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "company": "HPS Investment Partners",
+    "linkedin": "https://www.linkedin.com/company/hps-investment-partners",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "company": "Stonepeak",
+    "linkedin": "https://www.linkedin.com/company/stonepeak-infrastructure-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Stripes",
+    "linkedin": "https://www.linkedin.com/company/stripes-group",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Greycroft",
+    "linkedin": "https://www.linkedin.com/company/greycroft-llc",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Searchlight Capital Partners",
+    "linkedin": "https://www.linkedin.com/company/searchlight-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Aquiline Capital Partners",
+    "linkedin": "https://www.linkedin.com/company/aquiline-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Sycamore Partners",
+    "linkedin": "https://www.linkedin.com/company/sycamore-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "KPS Capital Partners",
+    "linkedin": "https://www.linkedin.com/company/kps-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "JLL Partners",
+    "linkedin": "https://www.linkedin.com/company/jll-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Catalyst Investors",
+    "linkedin": "https://www.linkedin.com/company/catalyst-investors",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Sentinel Capital Partners",
+    "linkedin": "https://www.linkedin.com/company/sentinel-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Tailwind Capital",
+    "linkedin": "https://www.linkedin.com/company/tailwind-capital",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Trilantic Capital Partners",
+    "linkedin": "https://www.linkedin.com/company/trilantic-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "TZP Group",
+    "linkedin": "https://www.linkedin.com/company/tzp-group",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Vestar Capital Partners",
+    "linkedin": "https://www.linkedin.com/company/vestar-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Lux Capital",
+    "linkedin": "https://www.linkedin.com/company/lux-capital-management",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Thrive Capital",
+    "linkedin": "https://www.linkedin.com/company/thrive-capital",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "FirstMark Capital",
+    "linkedin": "https://www.linkedin.com/company/firstmark-capital",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Lerer Hippeau",
+    "linkedin": "https://www.linkedin.com/company/lerer-hippeau",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Union Square Ventures",
+    "linkedin": "https://www.linkedin.com/company/union-square-ventures",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Primary Venture Partners",
+    "linkedin": "https://www.linkedin.com/company/primary-venture-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Two Sigma Ventures",
+    "linkedin": "https://www.linkedin.com/company/two-sigma-ventures",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "RRE Ventures",
+    "linkedin": "https://www.linkedin.com/company/rre-ventures",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Imaginary Ventures",
+    "linkedin": "https://www.linkedin.com/company/imaginary-ventures",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  }
+]

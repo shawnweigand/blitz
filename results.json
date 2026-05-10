@@ -1,0 +1,3174 @@
+[
+  {
+    "company": "Ramp",
+    "linkedin": "https://www.linkedin.com/company/ramp",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Sam Buck",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/sam-buck-19424969",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Amber Endicott",
+        "job_title": "Senior Strategic Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/amberendicott",
+        "location": {
+          "city": "Delaware",
+          "state_code": "OH",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Strategic Events Manager @ Ramp"
+      },
+      {
+        "full_name": "Jacob Söderstjerna",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/jacob-s%c3%b6derstjerna-74789342",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff at Ramp"
+      }
+    ]
+  },
+  {
+    "company": "Alloy",
+    "linkedin": "https://www.linkedin.com/company/alloy-com",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Petal",
+    "linkedin": "https://www.linkedin.com/company/petal-card",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Fundrise",
+    "linkedin": "https://www.linkedin.com/company/fundrise",
+    "industry": "Investment Management",
+    "people": [
+      {
+        "full_name": "Megan Prescott",
+        "job_title": "Chief of Staff to the CMO",
+        "linkedin_url": "https://www.linkedin.com/in/megan-prescott-4aa52614",
+        "location": {
+          "city": "Winter Garden",
+          "state_code": "FL",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "company": "Yieldstreet",
+    "linkedin": "https://www.linkedin.com/company/yieldstreet",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Vestwell",
+    "linkedin": "https://www.linkedin.com/company/vestwell",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Wendy W.",
+        "job_title": "Events Marketing Manager",
+        "linkedin_url": "https://www.linkedin.com/in/wendywu02",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Marketing Manager"
+      }
+    ]
+  },
+  {
+    "company": "Ocrolus",
+    "linkedin": "https://www.linkedin.com/company/ocrolus",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Capitolis",
+    "linkedin": "https://www.linkedin.com/company/capitolis",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "company": "Justworks",
+    "linkedin": "https://www.linkedin.com/company/justworks",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Movable Ink",
+    "linkedin": "https://www.linkedin.com/company/movable-ink",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Melanie Acuña",
+        "job_title": "Travel & Internal Events",
+        "linkedin_url": "https://www.linkedin.com/in/melanie-anne-acuna",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "company": "BetterCloud",
+    "linkedin": "https://www.linkedin.com/company/bettercloud",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Persado",
+    "linkedin": "https://www.linkedin.com/company/persado",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Bluecore",
+    "linkedin": "https://www.linkedin.com/company/bluecore-inc-",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Dataminr",
+    "linkedin": "https://www.linkedin.com/company/dataminr",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Roshan Leslie",
+        "job_title": "Senior Director, Customer and Brand Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/roshanleslie",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Camille Boley",
+        "job_title": "Events Marketing Intern",
+        "linkedin_url": "https://www.linkedin.com/in/camille-boley-2b215a240",
+        "location": {
+          "city": "Westport",
+          "state_code": "CT",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Marketing Intern at Dataminr"
+      }
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "linkedin": "https://www.linkedin.com/company/sprinklr",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Kristin Nash",
+        "job_title": "Global Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/kristin-nash",
+        "location": {
+          "city": "Frazee",
+          "state_code": "MN",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Planning Sprinklr events across the Globe!! CXUnifiers 2025 is coming....can\\'t wait to share updates!"
+      },
+      {
+        "full_name": "Natalie Stewart",
+        "job_title": "Executive Assistant to C-suite",
+        "linkedin_url": "https://www.linkedin.com/in/nataliestew",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Executive Assistant - Professional by nature, prepared by habit, funny by survival."
+      }
+    ]
+  },
+  {
+    "company": "Bombas",
+    "linkedin": "https://www.linkedin.com/company/bombas",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Charlotte Steglitz",
+        "job_title": "Brand Marketing Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/charlotte-steglitz",
+        "location": {
+          "city": "Ann Arbor",
+          "state_code": "MI",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Brand Marketing at Bombas"
+      },
+      {
+        "full_name": "Emily Hofstetter",
+        "job_title": "Chief Communications Officer, Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/emilyhofstetter",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "company": "Magic Spoon",
+    "linkedin": "https://www.linkedin.com/company/magic-spoon",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Caraway",
+    "linkedin": "https://www.linkedin.com/company/caraway-home",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "company": "Hu Kitchen",
+    "linkedin": "https://www.linkedin.com/company/hu-products",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "company": "Hill House Home",
+    "linkedin": "https://www.linkedin.com/company/hill-house-home",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "company": "Faherty Brand",
+    "linkedin": "https://www.linkedin.com/company/faherty-brand",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Jacqueline Golding",
+        "job_title": "Senior Marketing Manager, Brand Experiential",
+        "linkedin_url": "https://www.linkedin.com/in/jacquelinegolding",
+        "location": {
+          "city": "Los Angeles",
+          "state_code": "CA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "company": "Boll & Branch",
+    "linkedin": "https://www.linkedin.com/company/boll-and-branch",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "company": "Parade",
+    "linkedin": "https://www.linkedin.com/company/yourparade",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Zoe Cohen",
+        "job_title": "Director of Brand Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/zoe-cohen-174928244",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Director Of Brand Marketing at Parade"
+      }
+    ]
+  },
+  {
+    "company": "Patterson Belknap Webb & Tyler LLP",
+    "linkedin": "https://www.linkedin.com/company/patterson-belknap-webb-&-tyler-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Kramer Levin Naftalis & Frankel LLP",
+    "linkedin": "https://www.linkedin.com/company/kramer-levin-naftalis-&-frankel-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Schulte Roth & Zabel LLP",
+    "linkedin": "https://www.linkedin.com/company/schulte-roth-&-zabel-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Cahill Gordon & Reindel LLP",
+    "linkedin": "https://www.linkedin.com/company/cahill-gordon-&-reindel-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Fried, Frank, Harris, Shriver & Jacobson LLP",
+    "linkedin": "https://www.linkedin.com/company/fried-frank",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Willkie Farr & Gallagher LLP",
+    "linkedin": "https://www.linkedin.com/company/willkie-farr-&-gallagher-llp",
+    "industry": "Law Practice",
+    "people": [
+      {
+        "full_name": "Josie G.",
+        "job_title": "Events Assistant",
+        "linkedin_url": "https://www.linkedin.com/in/josie-giorgio",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Event Assistant @ Willkie Farr & Gallagher LLP | Bachelor of Business Administration- Arts & Entertainment Management"
+      },
+      {
+        "full_name": "Talia Roland-Kalb",
+        "job_title": "Office Administration & Events Specialist",
+        "linkedin_url": "https://www.linkedin.com/in/talia-roland-kalb-425b96130",
+        "location": {
+          "city": "Chicago",
+          "state_code": "IL",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Office Administration & Events Specialist. Creative Problem-Solver. Hands-On Collaborator. Avid Restaurant Goer."
+      }
+    ]
+  },
+  {
+    "company": "Proskauer Rose LLP",
+    "linkedin": "https://www.linkedin.com/company/proskauer-rose-llp",
+    "industry": "Law Practice",
+    "people": [
+      {
+        "full_name": "Sarah Nugent",
+        "job_title": "Events Specialist",
+        "linkedin_url": "https://www.linkedin.com/in/sarahrnugent",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events at Proskauer"
+      },
+      {
+        "full_name": "Marissa Tillem",
+        "job_title": "Chief of Staff to the Office of the Chair",
+        "linkedin_url": "https://www.linkedin.com/in/marissatillem",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff to the Office of the Chair at Proskauer Rose LLP"
+      },
+      {
+        "full_name": "Kathleen Maiorana",
+        "job_title": "Events Specialist",
+        "linkedin_url": "https://www.linkedin.com/in/kathleen-maiorana-46aaa0b",
+        "location": {
+          "city": "Jersey City",
+          "state_code": "NJ",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Specialist at Proskauer Rose LLP"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/betterment",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Kim Shea Gonzalez",
+        "job_title": "Sr Line Producer Brand Creative, Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/kimsheagonzalez",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Sr. Line Producer at Betterment"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/stash-financial-inc",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/public-com",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/ellevest",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Alexandra Ramirez",
+        "job_title": "Director of Brand Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/alexandramirez",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/moneylion",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Sara Moinian",
+        "job_title": "Senior Brand Marketing Manager",
+        "linkedin_url": "https://www.linkedin.com/in/saramoinian",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Sr Brand Marketing Manager @ MoneyLion"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/icapital-network",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/trumid",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/joinrepublic",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/better",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/lemonade-inc-",
+    "industry": "Insurance",
+    "people": [
+      {
+        "full_name": "Breanna Kendall",
+        "job_title": "Senior Lead, Brand Marketing and Growth Product Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/breanna-kendall-47714b92",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "driving product and brand led growth @ Lemonade"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/policygenius",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/laddercorp",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/coverwallet",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/rhobusiness",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Pilar Pheffer",
+        "job_title": "Brand Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/pilar-pheffer",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Marketing & Social Media Enthusiast | Creative, Strategic, Entrepreneurial"
+      },
+      {
+        "full_name": "Esther Nguyen",
+        "job_title": "Events & Community",
+        "linkedin_url": "https://www.linkedin.com/in/estherlnguyen",
+        "location": {
+          "city": "San Francisco",
+          "state_code": "CA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events & Community @ Rho"
+      },
+      {
+        "full_name": "Drew Parten",
+        "job_title": "Ny Events and Community Lead",
+        "linkedin_url": "https://www.linkedin.com/in/drew-parten-195176236",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Community Lead @ Rho"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tropicapp",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/lithic-inc",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/esusufinancial",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/current",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Jonathan Coffey",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/joncof",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/cadre",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/smartasset-com",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/fireblocks",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/chainalysis",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/galaxy-digital",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Alison Pettigrew",
+        "job_title": "Head of Product and Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/alison-pettigrew",
+        "location": {
+          "city": "Asheville",
+          "state_code": "NC",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Working with Nonprofit Communities through Volunteer Engagement Software to make sure that every day we are helping someone who is helping in their neck of the woods."
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/liquidnet",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/alphasense",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Charles Zvibleman",
+        "job_title": "SVP Strategic Finance Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/charles-zvibleman-11256a7",
+        "location": {
+          "city": "Boca Raton",
+          "state_code": "FL",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "SVP Strategic Finance at AlphaSense"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/capchase",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/pagaya-investments",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/symphony-communication-services",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/arcesium",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/visefin",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/bondfinancialtechnologies",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/hellobrigit",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Guilherme Soares",
+        "job_title": "Chief of Staff & Manager, Strategy",
+        "linkedin_url": "https://www.linkedin.com/in/guilherme-soares-38092695",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff @ Brigit"
+      },
+      {
+        "full_name": "Guilherme Soares",
+        "job_title": "Chief of Staff & Manager, Strategy",
+        "linkedin_url": "https://www.linkedin.com/in/gdsoares",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff @ Brigit"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/unitbanking",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tower-research-capital-llc",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/pico-quantitative-trading",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/axoni",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/gemini-trust-company-llc",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/nydig",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Rodney Miller",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/rodney-miller-6479b823",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/paxos",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/octane-lending",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Eric Tang",
+        "job_title": "Sr Manager, Portfolio Insights & Reporting Risk Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/erictangnyc",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/equityzen",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/unqork",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/marketaxess",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tradeweb",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/cohen-&-steers",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/greenhill-&-co.",
+    "industry": "Capital Markets",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/exoduspoint-capital-management",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/schonfeld-strategic-advisors",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/marathon-asset-management",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/pretium-partners",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/cb-insights",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/stonex-group",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/hicapitalize",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tomonetworks",
+    "industry": "Financial Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/dailypay",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Christopher Aiken",
+        "job_title": "Senior Associate, Events",
+        "linkedin_url": "https://www.linkedin.com/in/chris-topher-aiken-",
+        "location": {
+          "city": "Jersey City",
+          "state_code": "NJ",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Associate, Events at DailyPay"
+      },
+      {
+        "full_name": "Dasle Hong",
+        "job_title": "Senior Manager, Brand Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/daslekim",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Brand Marketing at DailyPay | Social Media + Employee Advocacy"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/global-atlantic-financial-group",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/nayyahealth",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/fabric-insurance",
+    "industry": "Insurance",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/yotpo",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/rokt",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Darah Emadi",
+        "job_title": "Events and Marketing Accelerator",
+        "linkedin_url": "https://www.linkedin.com/in/darah-emadi-9290a818a",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Marketing and Events at Rokt"
+      },
+      {
+        "full_name": "Ela Lasić Shea",
+        "job_title": "Head of Brand & Marketing, Rokt Catalog",
+        "linkedin_url": "https://www.linkedin.com/in/ela-lasi%c4%87",
+        "location": {
+          "city": "West Palm Beach",
+          "state_code": "FL",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Storyteller & Marketing Leader"
+      },
+      {
+        "full_name": "Darah Emadi",
+        "job_title": "Events and Marketing Accelerator",
+        "linkedin_url": "https://www.linkedin.com/in/darah-emadi",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Marketing and Events at Rokt"
+      },
+      {
+        "full_name": "Lucy Hunt",
+        "job_title": "Chief of Staff to the CEO",
+        "linkedin_url": "https://www.linkedin.com/in/lucyamhunt",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Executive Administration and Events"
+      },
+      {
+        "full_name": "Erin Piwowarczyk",
+        "job_title": "Director of Brand Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/erin-piwowarczyk-01388724",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/liveintent",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/yieldmo",
+    "industry": "Advertising Services",
+    "people": [
+      {
+        "full_name": "Garrett Christensen",
+        "job_title": "Senior Designer, Brand & Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/garrett-christensen",
+        "location": {
+          "city": "Windsor",
+          "state_code": "CO",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Brand & UX Designer | Illustrator | Design Strategist"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/foursquare",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/bowery-farming-inc-",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/cockroach-labs",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Whitney Hudson",
+        "job_title": "Chief of Staff Senior Executive Administrative Partner Engineering, Product",
+        "linkedin_url": "https://www.linkedin.com/in/whitney-hudson",
+        "location": {
+          "city": "Madison",
+          "state_code": "WI",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Executive Operations at Cockroach Labs, focused on Engineering and Product Leadership."
+      },
+      {
+        "full_name": "Whitney Hudson",
+        "job_title": "Chief of Staff Senior Executive Administrative Partner Engineering, Product",
+        "linkedin_url": "https://www.linkedin.com/in/whitney-hudson-91552a131",
+        "location": {
+          "city": "Madison",
+          "state_code": "WI",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Executive Operations at Cockroach Labs, focused on Engineering and Product Leadership."
+      },
+      {
+        "full_name": "Jamie de Martini",
+        "job_title": "Associate Director, Strategic Events",
+        "linkedin_url": "https://www.linkedin.com/in/jamie-de-martini-16411558",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Strategic Events and Experiential Marketing Leader"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/greenhouse-software",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/astronomerio",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/sisense",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/eko-com",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/zola",
+    "industry": "Internet Marketplace Platforms",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/kasisto",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/chartbeat",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Melissa Mleczko",
+        "job_title": "Head of Events and Partnerships",
+        "linkedin_url": "https://www.linkedin.com/in/melissa-mleczko",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Head of Events & Partnerships at Chartbeat, Tubular Labs and Lineup Systems"
+      },
+      {
+        "full_name": "Melissa Mleczko",
+        "job_title": "Senior Events & Partnerships Manager",
+        "linkedin_url": "https://www.linkedin.com/in/melissa-mleczko-09952b70",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Events & Partnerships Manager  at Chartbeat"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/latch-inc-",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/triplelift",
+    "industry": "Advertising Services",
+    "people": [
+      {
+        "full_name": "Lucy Russo",
+        "job_title": "Senior Marketing Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/lucyrusso92",
+        "location": {
+          "city": "Brooklyn",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/connatix",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/vimeo-com",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/loadsmart",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/kustomer",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Kimberly Walker",
+        "job_title": "Field Marketing & Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/kimberly-walker-83845759",
+        "location": {
+          "city": "Madison",
+          "state_code": "WI",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Field Marketing + Events Manager @ Kustomer | Marketing Strategy, Sales Alignment"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/wunderkind",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/mparticle",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/forter",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Abby Dohrmann",
+        "job_title": "Events Associate",
+        "linkedin_url": "https://www.linkedin.com/in/abby-dohrmann-19756519a",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Associate at Forter"
+      },
+      {
+        "full_name": "Marisa Santillo",
+        "job_title": "Sr Director, Global Events",
+        "linkedin_url": "https://www.linkedin.com/in/marisantillo",
+        "location": {
+          "city": "Brooklyn",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events at Forter"
+      },
+      {
+        "full_name": "Molly Dondero",
+        "job_title": "Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/mollydondero",
+        "location": {
+          "city": "Houston",
+          "state_code": "TX",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Marisa Santillo",
+        "job_title": "Sr Director, Global Events",
+        "linkedin_url": "https://www.linkedin.com/in/marisa-santillo-5962413a",
+        "location": {
+          "city": "Brooklyn",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events at Forter"
+      },
+      {
+        "full_name": "Katherine Dao",
+        "job_title": "Senior Manager, Abm Events",
+        "linkedin_url": "https://www.linkedin.com/in/katherine-parsons",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "ABM & Field Marketing @ Forter"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/smartling",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/aircall",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Coltin Kinsey",
+        "job_title": "Chief of Staff, Business Units",
+        "linkedin_url": "https://www.linkedin.com/in/coltinkinsey",
+        "location": {
+          "city": "Seattle",
+          "state_code": "WA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff, Business Units @ Aircall"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/attentive-mobile",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/hingeapp",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/seatgeek",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Joseph Fiore",
+        "job_title": "Chief of Staff, R & d",
+        "linkedin_url": "https://www.linkedin.com/in/joseph-fiore-06090022",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Sarah Kettler",
+        "job_title": "Vice President, Brand, Consumer & Enterprise Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/skettler",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Samantha Williams",
+        "job_title": "Events Specialist",
+        "linkedin_url": "https://www.linkedin.com/in/samantha-williams-784518137",
+        "location": {
+          "city": "Portland",
+          "state_code": "OR",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Specialist"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/1stdibs.com",
+    "industry": "Internet Marketplace Platforms",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/beacons-ai",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/beehiiv",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/andela",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Kate Holowink",
+        "job_title": "Senior Director, Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/kate-holowink-17a4469",
+        "location": {
+          "city": "Dallas-Fort Worth",
+          "state_code": "TX",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Director, Chief of Staff"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/liveauctioneers",
+    "industry": "Internet Marketplace Platforms",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/codecademy",
+    "industry": "E-Learning Providers",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/skillshare",
+    "industry": "E-Learning Providers",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/general-assembly",
+    "industry": "E-Learning Providers",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/glossier",
+    "industry": "Personal Care Product Manufacturing",
+    "people": [
+      {
+        "full_name": "Chenaya Devine Milbourne",
+        "job_title": "Vice President, Brand & Product Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/chenaya-devine-milbourne-9944a131",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Kewanna Donaldson",
+        "job_title": "Senior Manager, Brand and Product Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/kewannadonaldson",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Hannah Davis",
+        "job_title": "Brand and Product Marketing Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/hannahsdavis",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Amy C.",
+        "job_title": "Brand & Product Marketing Manager",
+        "linkedin_url": "https://www.linkedin.com/in/amy-c-84395a195",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Product Marketing Manager"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/harry-s",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/saie-beauty",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/westman-atelier",
+    "industry": "Personal Care Product Manufacturing",
+    "people": [
+      {
+        "full_name": "Diana Lendzion",
+        "job_title": "Director of Education and Events",
+        "linkedin_url": "https://www.linkedin.com/in/diana-lendzion-95211284",
+        "location": {
+          "city": "Aliso Viejo",
+          "state_code": "CA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Kylie Longton",
+        "job_title": "Education & Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/kylie-longton-0632039b",
+        "location": {
+          "city": "Detroit",
+          "state_code": "MI",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Livi Ramirez",
+        "job_title": "Program Director, Scholarships & Events",
+        "linkedin_url": "https://www.linkedin.com/in/liviramirez",
+        "location": {
+          "city": "Los Angeles",
+          "state_code": "CA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Freelance Makeup Artist | Sales Manager | Production Coordinator | Versatile, Detail-Oriented, Customer-Focused"
+      },
+      {
+        "full_name": "Deynece Petri",
+        "job_title": "Senior Global Manager Education and Events",
+        "linkedin_url": "https://www.linkedin.com/in/deynece-petri-1a1a9960",
+        "location": {
+          "city": "Denver",
+          "state_code": "CO",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Global Manager Education and Events"
+      },
+      {
+        "full_name": "Deynece Petri",
+        "job_title": "Global Manager Education and Events",
+        "linkedin_url": "https://www.linkedin.com/in/deynece-rypkema",
+        "location": {
+          "city": "Denver",
+          "state_code": "CO",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/bubbleskincare",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/wander-beauty",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tula",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/mentedcosmetics",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/pat-mcgrath-labs",
+    "industry": "Personal Care Product Manufacturing",
+    "people": [
+      {
+        "full_name": "Joyce Pennell",
+        "job_title": "Creative Copywriter & Brand Marketing Consultant",
+        "linkedin_url": "https://www.linkedin.com/in/joyce-pennell-14b593a",
+        "location": {
+          "city": "Los Angeles",
+          "state_code": "CA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Creative Director | Copywriter | Brand, Marketing & Creative Consultant"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/function-of-beauty",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/prosehair",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/getmaude",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/dame-products",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/amicole",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/briogeo-hair-care",
+    "industry": "Personal Care Product Manufacturing",
+    "people": [
+      {
+        "full_name": "Ana Cristina Gonzales",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/ana-cristina-gonzales",
+        "location": {
+          "city": "Los Angeles",
+          "state_code": "CA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/le-labo",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/d-s-durga",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/ellis-brooklyn",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/snif",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/apothekeco",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/untuckit",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/mack-weldon",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/shopcuup",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/adore-me",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Dayse Rocha-Caballero",
+        "job_title": "Manager Team Events and Engagement",
+        "linkedin_url": "https://www.linkedin.com/in/dayse-rocha-caballero-a1b95167",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/negative-underwear",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/universal-standard",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/m-m-lafleur",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Olivia Schaffer",
+        "job_title": "Brand & Retail Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/oliviajschaffer",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Brand Marketing and Events at M.M.LaFleur"
+      },
+      {
+        "full_name": "Madeleine Kim",
+        "job_title": "Director of Brand & Content Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/madeleine-kim-a6724693",
+        "location": {
+          "city": "Austin",
+          "state_code": "TX",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Director of Brand and Content Marketing at M.M.LaFleur"
+      },
+      {
+        "full_name": "Kate Vannorsdall",
+        "job_title": "Brand Marketing Associate",
+        "linkedin_url": "https://www.linkedin.com/in/kate-vannorsdall-9b9198172",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Brand Marketing Associate at M.M. LaFleur"
+      },
+      {
+        "full_name": "Emma Steinbergs",
+        "job_title": "Brand Marketing Manager",
+        "linkedin_url": "https://www.linkedin.com/in/emma-steinbergs-552a596a",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Brand at M.M.LaFleur"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/veronica-beard",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Yohanna Pepa",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/yohanna-pepa",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Katherine Cuddeback",
+        "job_title": "Events & Special Projects Assistant",
+        "linkedin_url": "https://www.linkedin.com/in/katherine-cuddeback-596389210",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events & Special Projects Assistant at Veronica Beard"
+      },
+      {
+        "full_name": "Leona Mizrahi",
+        "job_title": "Vip Client Services and Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/leonamizrahi",
+        "location": {
+          "city": "Los Angeles",
+          "state_code": "CA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "My successful career is built on esteemed effort, cultivating lasting relationships and taking creative risks. IATSE MPC 705 Costumer + Wardrobe Stylist"
+      },
+      {
+        "full_name": "Traci Ching",
+        "job_title": "Specialist for Partnerships, In-store Activations and Events, Client Sales and Consignments",
+        "linkedin_url": "https://www.linkedin.com/in/traci-ching-557b4a6",
+        "location": {
+          "city": "Los Angeles",
+          "state_code": "CA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Sales and Malibu Events Coordinator for James Perse | Corporate Identity Pro"
+      },
+      {
+        "full_name": "Paulina Kerner",
+        "job_title": "Retail Events Assistant Manager",
+        "linkedin_url": "https://www.linkedin.com/in/paulina-kerner-0193b113a",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Retail Events Assistant Manager"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/ulla-johnson",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tibi",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/khaite",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Grace Yoon",
+        "job_title": "Global Director, Events & Experiences",
+        "linkedin_url": "https://www.linkedin.com/in/yoongrace",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Global Director of Events & Experiences at KHAITE"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/rebecca-minkoff",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Wendi Lutfy",
+        "job_title": "Director of Retail Merchandising and Store Events",
+        "linkedin_url": "https://www.linkedin.com/in/wendi-lutfy-63841a25",
+        "location": {
+          "city": "Boca Raton",
+          "state_code": "FL",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Real Estate Sales at Coast To Coast Realty Group"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/eileen-fisher",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Lisa Brody",
+        "job_title": "Director of Brand Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/lisambrody",
+        "location": {
+          "city": "Brooklyn",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Marketing Lead | Creative Project Management | Visual Merchandising | Brand + Customer Experience"
+      },
+      {
+        "full_name": "Jamie Habanek",
+        "job_title": "Director, Brand Marketing and Customer Strategy",
+        "linkedin_url": "https://www.linkedin.com/in/jamie-habanek",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/thursday-boot-company",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Nathan",
+        "job_title": "VP of Marketing - Brand",
+        "linkedin_url": "https://www.linkedin.com/in/nathan-ma-2738b523",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Cathy Nguyen",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/cathy-nguyen-6baa317",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief Of Staff at Thursday Boot Company"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/felix-gray",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/telfar-global",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/dagne-dover",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/statebags",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/bandier",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/aime-leon-dore",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/kithnyc",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Damon Amato",
+        "job_title": "Senior Brand Designer - Marketing & Content",
+        "linkedin_url": "https://www.linkedin.com/in/damon-amato",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Bianca Kennedy",
+        "job_title": "Special Events Committee Member",
+        "linkedin_url": "https://www.linkedin.com/in/bianca-kennedy-457a57280",
+        "location": {
+          "city": "Brooklyn",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Sophmore Marketing Major at Howard University | Intern Buyer at KITH NYC | Professional Development Chair for AMA Howard University Chapter | The Axis Council President"
+      },
+      {
+        "full_name": "Genevieve Kovesi",
+        "job_title": "Director of Marketing & Events",
+        "linkedin_url": "https://www.linkedin.com/in/genevieve-kovesi-23844526",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Tony Bercow",
+        "job_title": "Chief of Staff & Head of Partnerships",
+        "linkedin_url": "https://www.linkedin.com/in/tony-bercow-a49045170",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/bode-new-york",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Camille Cueto",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/camille-cueto",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/diane-von-furstenberg",
+    "industry": "Retail Apparel and Fashion",
+    "people": [
+      {
+        "full_name": "Olympia Scott",
+        "job_title": "Senior Director of Brand Marketing & Communications",
+        "linkedin_url": "https://www.linkedin.com/in/olympia-scott-16657034a",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Director Marketing Communications at DVF"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/vince",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/brandon-blackwood-new-york",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/catbirdnyc",
+    "industry": "Retail Luxury Goods and Jewelry",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/auratenewyork",
+    "industry": "Retail Luxury Goods and Jewelry",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/baublebar",
+    "industry": "Retail Luxury Goods and Jewelry",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/daily-harvest",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/goldbely",
+    "industry": "Internet Marketplace Platforms",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/sakara-life",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/athletic-greens",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/the-vita-coco-company",
+    "industry": "Food and Beverage Manufacturing",
+    "people": [
+      {
+        "full_name": "Kyle Delancey",
+        "job_title": "Marketing, Brand Educator",
+        "linkedin_url": "https://www.linkedin.com/in/kyle-delancey-041534a8",
+        "location": {
+          "city": "Queens County",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Marketing at Vita Coco"
+      },
+      {
+        "full_name": "Abraham Jon",
+        "job_title": "Assistant Brand Manager Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/abraham-jon-b50a14235",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Assistant Brand Manager Marketing at Vita Coco"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/van-leeuwen-ice-cream",
+    "industry": "Food and Beverage Manufacturing",
+    "people": [
+      {
+        "full_name": "Helen Brownstein",
+        "job_title": "Catering & Events Sales Manager",
+        "linkedin_url": "https://www.linkedin.com/in/helen-brownstein-96b828128",
+        "location": {
+          "city": "Brooklyn",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Catering & Events Sales Manager at Van Leeuwen Ice Cream"
+      },
+      {
+        "full_name": "Dominique Cartagena",
+        "job_title": "Events General Manager",
+        "linkedin_url": "https://www.linkedin.com/in/dominique-cartagena-455a60182",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events & Alt. Rev. GM for Van Leeuwen Ice Cream"
+      },
+      {
+        "full_name": "Koemi Peña",
+        "job_title": "Events Specialist Member",
+        "linkedin_url": "https://www.linkedin.com/in/koemi-pe%c3%b1a-11b652217",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Student at Hunter College"
+      },
+      {
+        "full_name": "Koemi Peña",
+        "job_title": "Events Specialist Member",
+        "linkedin_url": "https://www.linkedin.com/in/koemi-pe%C3%B1a-11b652217",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Student at Hunter College"
+      },
+      {
+        "full_name": "Nathan Srikumar",
+        "job_title": "Events Team Member",
+        "linkedin_url": "https://www.linkedin.com/in/nathan-srikumar-490507309",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Student at Long Island University"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/eatbanza",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/three-wishes-cereal",
+    "industry": "Food and Beverage Manufacturing",
+    "people": [
+      {
+        "full_name": "Melissa Hunter",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/melissa-hunter-6b00751b",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/momofukugoods",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/takearecess",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/sweet-loren-s",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/joe-coffee-company",
+    "industry": "Food and Beverage Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/gregorys-coffee",
+    "industry": "Food and Beverage Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/cha-cha-matcha",
+    "industry": "Food and Beverage Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/brooklyn-brewery",
+    "industry": "Food and Beverage Manufacturing",
+    "people": [
+      {
+        "full_name": "Tyson S.",
+        "job_title": "Director of Tasting Room & Events",
+        "linkedin_url": "https://www.linkedin.com/in/tyson-swindell",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Event Leader | Experiential Marketer | Business Developer | Hospitality & Culture Strategist for Global Brands."
+      },
+      {
+        "full_name": "Erin Irvine",
+        "job_title": "Events Ambassador",
+        "linkedin_url": "https://www.linkedin.com/in/erin-irvine88",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Ambassador at Brooklyn Brewery"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/hungryroot",
+    "industry": "Food and Beverage Manufacturing",
+    "people": [
+      {
+        "full_name": "Nika Mosenthal",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/nikamosenthal",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/little-spoon",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/the-sill",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/hiburrow",
+    "industry": "Retail Furniture and Home Furnishings",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/public-goods",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/snowe",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/meetlalo",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/barkbox",
+    "industry": "Retail",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/the-farmer's-dog",
+    "industry": "Food and Beverage Manufacturing",
+    "people": [
+      {
+        "full_name": "Adriana Mariella",
+        "job_title": "Director of Brand Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/adriana-mariella",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Director of Brand Marketing at The Farmer\\'s Dog"
+      },
+      {
+        "full_name": "Becca Rudman",
+        "job_title": "Brand Marketing Manager",
+        "linkedin_url": "https://www.linkedin.com/in/beccarudman",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Brand Marketing @ The Farmer’s Dog"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/myollie",
+    "industry": "Food and Beverage Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/casper-sleep",
+    "industry": "Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/getquip",
+    "industry": "Personal Care Product Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/jambys",
+    "industry": "Retail Apparel and Fashion",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/byloftie",
+    "industry": "Manufacturing",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/levelshealth",
+    "industry": "Wellness and Fitness Services",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/cravath-swaine-&-moore-llp",
+    "industry": "Law Practice",
+    "people": [
+      {
+        "full_name": "Amanda Iantosca",
+        "job_title": "Events and Conference Services",
+        "linkedin_url": "https://www.linkedin.com/in/amandaiantosca",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events and Conference Services at Cravath, Swaine, & Moore LLP"
+      },
+      {
+        "full_name": "Kyle Gittleson",
+        "job_title": "Events & Conference Services",
+        "linkedin_url": "https://www.linkedin.com/in/kyle-gittleson-b8212793",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Special Events at Cravath, Swaine & Moore LLP"
+      },
+      {
+        "full_name": "Cleopatra Papadopoulos",
+        "job_title": "Senior Special Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/cleopatrapapadopoulos",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Elizabeth Roberts",
+        "job_title": "Senior Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/elizabethroberts012",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Events Coordinator at Cravath, Swaine & Moore LLP"
+      },
+      {
+        "full_name": "Jordan Sim",
+        "job_title": "Senior Client Services and Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/jordan-sim-582895178",
+        "location": {
+          "city": "Arlington",
+          "state_code": "VA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Client Services and Events"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/sullivan-&-cromwell-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/skadden",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/davis-polk-&-wardwell-llp",
+    "industry": "Law Practice",
+    "people": [
+      {
+        "full_name": "Leslie Phillips",
+        "job_title": "Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/lesliephillips",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Coordinator at Davis Polk & Wardwell LLP"
+      },
+      {
+        "full_name": "Marjorie Kaye",
+        "job_title": "Senior Manager, Events",
+        "linkedin_url": "https://www.linkedin.com/in/marjorie-kaye-1559053",
+        "location": {
+          "city": "Brooklyn",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Natalie Grammer",
+        "job_title": "Coordinator, Events",
+        "linkedin_url": "https://www.linkedin.com/in/nataliegrammer",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Coordinator, Events at Davis Polk & Wardwell LLP"
+      },
+      {
+        "full_name": "Jeanann Thuss",
+        "job_title": "Manager, Events",
+        "linkedin_url": "https://www.linkedin.com/in/jeanannthuss",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Manager, Events at Davis Polk & Wardwell LLP"
+      },
+      {
+        "full_name": "Helene de Rade Campbell",
+        "job_title": "Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/helene-de-rade-campbell-845131b",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Coordinator at Davis Polk & Wardwell"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/paul-weiss",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/simpson-thacher-&-bartlett-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/wachtell-lipton-rosen-&-katz",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/weil-gotshal-&-manges-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/milbank-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/cleary-gottlieb-steen-&-hamilton-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/debevoise-&-plimpton-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/white-&-case",
+    "industry": "Law Practice",
+    "people": [
+      {
+        "full_name": "Hope Ellen",
+        "job_title": "Global Director of Events",
+        "linkedin_url": "https://www.linkedin.com/in/hope-ellen",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Samantha Lazur",
+        "job_title": "Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/samantha-lazur-a430a0137",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Coordinator at White & Case LLP"
+      },
+      {
+        "full_name": "Amity Boye",
+        "job_title": "Chief of Staff to Chair Director of Executive Projects",
+        "linkedin_url": "https://www.linkedin.com/in/amity-boye",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff to the Chair at White & Case, Director of Executive Projects"
+      },
+      {
+        "full_name": "Madeline J. Williams",
+        "job_title": "Events Specialist",
+        "linkedin_url": "https://www.linkedin.com/in/madelinejwilliams1",
+        "location": {
+          "city": "Los Angeles",
+          "state_code": "CA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Specialist at White & Case LLP"
+      },
+      {
+        "full_name": "Antonio Nittoli",
+        "job_title": "Senior Specialist, Hybrid Events",
+        "linkedin_url": "https://www.linkedin.com/in/antonio-nittoli-65898353",
+        "location": {
+          "city": "Washington",
+          "state_code": "DC",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/hughes-hubbard-&-reed-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/curtis-mallet-prevost-colt-&-mosle-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/kelley-drye-&-warren-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/olshan-frome-wolosky-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tannenbaum-helpern-syracuse-&-hirschtritt-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/cohen-&-gresser-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/boies-schiller-flexner-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/kasowitz-benson-torres-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/kobre-&-kim",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/selendy-gay-pllc",
+    "industry": "Law Practice",
+    "people": [
+      {
+        "full_name": "Cynthia Stephan",
+        "job_title": "Reception Events",
+        "linkedin_url": "https://www.linkedin.com/in/cynthia-stephan-5b290823a",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/pryor-cashman-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/herrick-feinstein-llp",
+    "industry": "Law Practice",
+    "people": [
+      {
+        "full_name": "Alexandra Fox",
+        "job_title": "Marketing, Media, and Brand Specialist",
+        "linkedin_url": "https://www.linkedin.com/in/alexandra-fox-39175a165",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Marketing, Media and Brand Specialist at Herrick, Feinstein LLP"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tarter-krinsky-&-drogin-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/rosenberg-&-estis-p.c.",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/reitler-kailas-&-rosenblatt-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/mintz-&-gold-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/morrison-cohen-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/otterbourg-p.c.",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/friedman-kaplan-seiler-&-adelman-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/kleinberg-kaplan-wolff-&-cohen-p.c.",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/sive-paget-&-riesel-p.c.",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/frankfurt-kurnit-klein-&-selz",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/davis-&-gilbert-llp",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/insight-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/warburg-pincus",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": [
+      {
+        "full_name": "Emma Rose Gallucci",
+        "job_title": "Executive Assistant in the Events Group",
+        "linkedin_url": "https://www.linkedin.com/in/emmarose-sanfilippo",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Nikki Rumizen",
+        "job_title": "Executive Assistant, Events",
+        "linkedin_url": "https://www.linkedin.com/in/nikkirumizen",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Executive Assistant, Events at Warburg Pincus"
+      },
+      {
+        "full_name": "Jennifer Nam",
+        "job_title": "Director, Head of Events",
+        "linkedin_url": "https://www.linkedin.com/in/jennifer-nam-a197aa4",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Heather Andralliski Murray",
+        "job_title": "Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/heather-andralliski-murray-1a76422b",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Coordinator at Warburg Pincus LLC"
+      },
+      {
+        "full_name": "Aubree Bahlman",
+        "job_title": "Assistant, Events",
+        "linkedin_url": "https://www.linkedin.com/in/aubreebahlman",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events at Warburg Pincus"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tiger-global-management-llc",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/coatue-management",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/cerberus-capital-management",
+    "industry": "Investment Management",
+    "people": [
+      {
+        "full_name": "MacIe Leach",
+        "job_title": "Chief of Staff, Cerberus Operations and Advisory Company",
+        "linkedin_url": "https://www.linkedin.com/in/sally-macie-leach",
+        "location": {
+          "city": "Portland",
+          "state_code": "OR",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff, Cerberus Operations and Advisory Company"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/centerbridge-partners-l.p.",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/oak-hill-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/new-mountain-capital",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/welsh-carson-anderson-&-stowe",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": [
+      {
+        "full_name": "Burke Brown",
+        "job_title": "Finance Director, Events",
+        "linkedin_url": "https://www.linkedin.com/in/burke-brown-6a24b8284",
+        "location": {
+          "city": "Milwaukee",
+          "state_code": "WI",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "History & Econ at Yale University"
+      },
+      {
+        "full_name": "Tess Lanza",
+        "job_title": "Events and Executive Office Administration",
+        "linkedin_url": "https://www.linkedin.com/in/tess-lanza-0421b76",
+        "location": {
+          "city": "Norwalk",
+          "state_code": "CT",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Creative events and executive administrative office functions"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/lindsay-goldberg",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/crestview-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/american-securities",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/court-square-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/clayton-dubilier-&-rice",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/veritas-capital",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/blue-owl-capital",
+    "industry": "Investment Management",
+    "people": [
+      {
+        "full_name": "Kayla Pingerelli",
+        "job_title": "Senior Associate, Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/kayla-pingerelli-8b5201132",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Associate, Events Coordinator at Blue Owl Capital"
+      },
+      {
+        "full_name": "Melissa Callahan",
+        "job_title": "Head of Events",
+        "linkedin_url": "https://www.linkedin.com/in/melissa-callahan-80474111",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Kayla Pingerelli",
+        "job_title": "Senior Associate, Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/kayla-pingerelli2",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Associate, Events Coordinator at Blue Owl Capital"
+      },
+      {
+        "full_name": "Katie Velle",
+        "job_title": "Vice President, Brand Strategy & Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/katie-la-velle",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Vice President, Brand Strategy & Marketing at Blue Owl Capital"
+      },
+      {
+        "full_name": "Meghan Ohara Lynch",
+        "job_title": "Principal, Head of Bsp Events",
+        "linkedin_url": "https://www.linkedin.com/in/meghan-o-hara-lynch-2a81615",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Head of BSP Events at Blue Owl Capital"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/hps-investment-partners",
+    "industry": "Investment Management",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/stonepeak-infrastructure-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/stripes-group",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/greycroft-llc",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/searchlight-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/aquiline-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/sycamore-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/kps-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/jll-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": [
+      {
+        "full_name": "Wayne Hunter",
+        "job_title": "Meeting & Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/wayne-hunter-4959716",
+        "location": {
+          "city": "New London",
+          "state_code": "CT",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Meeting&Events Coordinator at JLL Partners"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/catalyst-investors",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/sentinel-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tailwind-capital",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/trilantic-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/tzp-group",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/vestar-capital-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/lux-capital-management",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/thrive-capital",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": [
+      {
+        "full_name": "Barbara Carvalho Field",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/barbara-carvalho-field-8247a663",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/firstmark-capital",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/lerer-hippeau",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/union-square-ventures",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/primary-venture-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": [
+      {
+        "full_name": "Carly Martin",
+        "job_title": "Brand and Content Marketing Manager",
+        "linkedin_url": "https://www.linkedin.com/in/carly-martin-164227a2",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Brand & Content Marketing Manager at Primary Venture Partners"
+      },
+      {
+        "full_name": "Anna Ferdinand",
+        "job_title": "Member, Bizops Chief of Staff Mastermind Network",
+        "linkedin_url": "https://www.linkedin.com/in/anna-ferdinand",
+        "location": {
+          "city": "Boston",
+          "state_code": "MA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Katheryn Thayer",
+        "job_title": "Vice President of Brand and Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/katheryn-thayer-5580a222",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Emma Balin",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/emma-balin678",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Greg Docter",
+        "job_title": "Community Member Bizops & Chief of Staff, Mastermind Network",
+        "linkedin_url": "https://www.linkedin.com/in/gregdocter",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff - 10 years in VC-backed startups (Seed to Series C) leading business operations, shaping strategy, and driving growth"
+      }
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/two-sigma-ventures",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/rre-ventures",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "linkedin": "https://www.linkedin.com/company/imaginary-ventures",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  }
+]
