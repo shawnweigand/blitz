@@ -5,7 +5,10 @@ const path = require("path");
 const API_KEY = process.env.BLITZ_API_KEY;
 const API_URL = "https://api.blitz-api.ai/v2/search/people";
 
-const companies = JSON.parse(fs.readFileSync("./companies.json", "utf-8"));
+const COMPANIES_FILE = "./companies/test-companies.json";
+const OUTPUT_FILE = "./results/test-results.json";
+
+const companies = JSON.parse(fs.readFileSync(COMPANIES_FILE, "utf-8"));
 
 const JOB_TITLES = [
   "Events",
@@ -16,6 +19,9 @@ const JOB_TITLES = [
 ];
 
 const EXCLUDE_TITLES = ["intern"];
+
+// Max results per company search — valid range: 1 to 50
+const MAX_RESULTS = 50;
 
 // Rate limit: 5 req/s — enforce a minimum gap between the START of each request.
 // 300ms gap = ~3.3 req/s, giving a comfortable buffer under the 5 req/s cap.
@@ -51,7 +57,7 @@ async function findPeopleAtCompany(company) {
         country_code: ["US"],
       },
     },
-    max_results: 5,
+    max_results: MAX_RESULTS,
     cursor: null,
   };
 
@@ -92,14 +98,14 @@ async function main() {
   }
 
   // Load existing results to avoid re-fetching companies already looked up
-  const resultsPath = path.join(__dirname, "results.json");
+  const resultsPath = path.join(__dirname, OUTPUT_FILE);
   let existingResults = [];
   if (fs.existsSync(resultsPath)) {
     try {
       existingResults = JSON.parse(fs.readFileSync(resultsPath, "utf-8"));
-      console.log(`Loaded ${existingResults.length} existing result(s) from results.json`);
+      console.log(`Loaded ${existingResults.length} existing result(s) from ${OUTPUT_FILE}`);
     } catch {
-      console.warn("Could not parse existing results.json — starting fresh.");
+      console.warn(`Could not parse existing ${OUTPUT_FILE} — starting fresh.`);
     }
   }
   const alreadyFetched = new Set(existingResults.map((r) => r.linkedin));
@@ -151,7 +157,7 @@ async function main() {
     // Throttling is handled inside findPeopleAtCompany via throttle()
   }
 
-  const outputPath = path.join(__dirname, "results.json");
+  const outputPath = path.join(__dirname, OUTPUT_FILE);
   fs.writeFileSync(outputPath, JSON.stringify(allResults, null, 2));
   console.log(`\nDone! Results saved to ${outputPath}`);
 

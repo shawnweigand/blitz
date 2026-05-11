@@ -1,0 +1,465 @@
+[
+  {
+    "company": "Ramp",
+    "linkedin": "https://www.linkedin.com/company/ramp",
+    "industry": "Financial Services",
+    "people": [
+      {
+        "full_name": "Sam Buck",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/sam-buck-19424969",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Amber Endicott",
+        "job_title": "Senior Strategic Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/amberendicott",
+        "location": {
+          "city": "Delaware",
+          "state_code": "OH",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Strategic Events Manager @ Ramp"
+      },
+      {
+        "full_name": "Jacob Söderstjerna",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/jacob-s%c3%b6derstjerna-74789342",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff at Ramp"
+      }
+    ]
+  },
+  {
+    "company": "Sprinklr",
+    "linkedin": "https://www.linkedin.com/company/sprinklr",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Kristin Nash",
+        "job_title": "Global Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/kristin-nash",
+        "location": {
+          "city": "Frazee",
+          "state_code": "MN",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Planning Sprinklr events across the Globe!! CXUnifiers 2025 is coming....can\\'t wait to share updates!"
+      },
+      {
+        "full_name": "Natalie Stewart",
+        "job_title": "Executive Assistant to C-suite",
+        "linkedin_url": "https://www.linkedin.com/in/nataliestew",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Executive Assistant - Professional by nature, prepared by habit, funny by survival."
+      }
+    ]
+  },
+  {
+    "company": "Fried, Frank, Harris, Shriver & Jacobson LLP",
+    "linkedin": "https://www.linkedin.com/company/fried-frank",
+    "industry": "Law Practice",
+    "people": []
+  },
+  {
+    "company": "Forter",
+    "linkedin": "https://www.linkedin.com/company/forter",
+    "industry": "Software Development",
+    "people": [
+      {
+        "full_name": "Abby Dohrmann",
+        "job_title": "Events Associate",
+        "linkedin_url": "https://www.linkedin.com/in/abby-dohrmann-19756519a",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Associate at Forter"
+      },
+      {
+        "full_name": "Marisa Santillo",
+        "job_title": "Sr Director, Global Events",
+        "linkedin_url": "https://www.linkedin.com/in/marisantillo",
+        "location": {
+          "city": "Brooklyn",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events at Forter"
+      },
+      {
+        "full_name": "Molly Dondero",
+        "job_title": "Events Manager",
+        "linkedin_url": "https://www.linkedin.com/in/mollydondero",
+        "location": {
+          "city": "Houston",
+          "state_code": "TX",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Marisa Santillo",
+        "job_title": "Sr Director, Global Events",
+        "linkedin_url": "https://www.linkedin.com/in/marisa-santillo-5962413a",
+        "location": {
+          "city": "Brooklyn",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events at Forter"
+      },
+      {
+        "full_name": "Katherine Dao",
+        "job_title": "Senior Manager, Abm Events",
+        "linkedin_url": "https://www.linkedin.com/in/katherine-parsons",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "ABM & Field Marketing @ Forter"
+      }
+    ]
+  },
+  {
+    "company": "Hinge",
+    "linkedin": "https://www.linkedin.com/company/hingeapp",
+    "industry": "Software Development",
+    "people": []
+  },
+  {
+    "company": "Cravath, Swaine & Moore LLP",
+    "linkedin": "https://www.linkedin.com/company/cravath-swaine-&-moore-llp",
+    "industry": "Law Practice",
+    "people": [
+      {
+        "full_name": "Amanda Iantosca",
+        "job_title": "Events and Conference Services",
+        "linkedin_url": "https://www.linkedin.com/in/amandaiantosca",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events and Conference Services at Cravath, Swaine, & Moore LLP"
+      },
+      {
+        "full_name": "Kyle Gittleson",
+        "job_title": "Events & Conference Services",
+        "linkedin_url": "https://www.linkedin.com/in/kyle-gittleson-b8212793",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Special Events at Cravath, Swaine & Moore LLP"
+      },
+      {
+        "full_name": "Cleopatra Papadopoulos",
+        "job_title": "Senior Special Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/cleopatrapapadopoulos",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Elizabeth Roberts",
+        "job_title": "Senior Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/elizabethroberts012",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Events Coordinator at Cravath, Swaine & Moore LLP"
+      },
+      {
+        "full_name": "Jordan Sim",
+        "job_title": "Senior Client Services and Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/jordan-sim-582895178",
+        "location": {
+          "city": "Arlington",
+          "state_code": "VA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Client Services and Events"
+      },
+      {
+        "full_name": "Samuel Saboor",
+        "job_title": "Events and Trial Site Logistics Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/samuel-saboor-910a36180",
+        "location": {
+          "city": "Orlando",
+          "state_code": "FL",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events and Trial Site Logistics Coordinator at Cravath, Swaine & Moore LLP"
+      },
+      {
+        "full_name": "Heather Page",
+        "job_title": "Conference Center Coordinator Events & Conference Services",
+        "linkedin_url": "https://www.linkedin.com/in/heather-page-32521a29",
+        "location": {
+          "city": "Lynbrook",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Conference Center Coordinator Events & Conference Services at Cravath Swaine and Moore"
+      }
+    ]
+  },
+  {
+    "company": "Warburg Pincus",
+    "linkedin": "https://www.linkedin.com/company/warburg-pincus",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": [
+      {
+        "full_name": "Emma Rose Gallucci",
+        "job_title": "Executive Assistant in the Events Group",
+        "linkedin_url": "https://www.linkedin.com/in/emmarose-sanfilippo",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Nikki Rumizen",
+        "job_title": "Executive Assistant, Events",
+        "linkedin_url": "https://www.linkedin.com/in/nikkirumizen",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Executive Assistant, Events at Warburg Pincus"
+      },
+      {
+        "full_name": "Jennifer Nam",
+        "job_title": "Director, Head of Events",
+        "linkedin_url": "https://www.linkedin.com/in/jennifer-nam-a197aa4",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Heather Andralliski Murray",
+        "job_title": "Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/heather-andralliski-murray-1a76422b",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events Coordinator at Warburg Pincus LLC"
+      },
+      {
+        "full_name": "Aubree Bahlman",
+        "job_title": "Assistant, Events",
+        "linkedin_url": "https://www.linkedin.com/in/aubreebahlman",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Events at Warburg Pincus"
+      }
+    ]
+  },
+  {
+    "company": "Blue Owl Capital",
+    "linkedin": "https://www.linkedin.com/company/blue-owl-capital",
+    "industry": "Investment Management",
+    "people": [
+      {
+        "full_name": "Kayla Pingerelli",
+        "job_title": "Senior Associate, Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/kayla-pingerelli-8b5201132",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Associate, Events Coordinator at Blue Owl Capital"
+      },
+      {
+        "full_name": "Melissa Callahan",
+        "job_title": "Head of Events",
+        "linkedin_url": "https://www.linkedin.com/in/melissa-callahan-80474111",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Kayla Pingerelli",
+        "job_title": "Senior Associate, Events Coordinator",
+        "linkedin_url": "https://www.linkedin.com/in/kayla-pingerelli2",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Senior Associate, Events Coordinator at Blue Owl Capital"
+      },
+      {
+        "full_name": "Katie Velle",
+        "job_title": "Vice President, Brand Strategy & Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/katie-la-velle",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Vice President, Brand Strategy & Marketing at Blue Owl Capital"
+      },
+      {
+        "full_name": "Meghan Ohara Lynch",
+        "job_title": "Principal, Head of Bsp Events",
+        "linkedin_url": "https://www.linkedin.com/in/meghan-o-hara-lynch-2a81615",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Head of BSP Events at Blue Owl Capital"
+      },
+      {
+        "full_name": "Elizabeth Mattfeld",
+        "job_title": "Brand Strategy Marketing Analyst",
+        "linkedin_url": "https://www.linkedin.com/in/elizabeth-mattfeld",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Analyst, Brand Strategy at Blue Owl Capital"
+      }
+    ]
+  },
+  {
+    "company": "Sycamore Partners",
+    "linkedin": "https://www.linkedin.com/company/sycamore-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": []
+  },
+  {
+    "company": "Primary Venture Partners",
+    "linkedin": "https://www.linkedin.com/company/primary-venture-partners",
+    "industry": "Venture Capital and Private Equity Principals",
+    "people": [
+      {
+        "full_name": "Carly Martin",
+        "job_title": "Brand and Content Marketing Manager",
+        "linkedin_url": "https://www.linkedin.com/in/carly-martin-164227a2",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Brand & Content Marketing Manager at Primary Venture Partners"
+      },
+      {
+        "full_name": "Anna Ferdinand",
+        "job_title": "Member, Bizops Chief of Staff Mastermind Network",
+        "linkedin_url": "https://www.linkedin.com/in/anna-ferdinand",
+        "location": {
+          "city": "Boston",
+          "state_code": "MA",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Katheryn Thayer",
+        "job_title": "Vice President of Brand and Marketing",
+        "linkedin_url": "https://www.linkedin.com/in/katheryn-thayer-5580a222",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Emma Balin",
+        "job_title": "Chief of Staff",
+        "linkedin_url": "https://www.linkedin.com/in/emma-balin678",
+        "location": {
+          "city": "New York",
+          "state_code": "NY",
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": null
+      },
+      {
+        "full_name": "Greg Docter",
+        "job_title": "Community Member Bizops & Chief of Staff, Mastermind Network",
+        "linkedin_url": "https://www.linkedin.com/in/gregdocter",
+        "location": {
+          "city": null,
+          "state_code": null,
+          "country_code": "US",
+          "continent": "North America"
+        },
+        "headline": "Chief of Staff - 10 years in VC-backed startups (Seed to Series C) leading business operations, shaping strategy, and driving growth"
+      }
+    ]
+  }
+]

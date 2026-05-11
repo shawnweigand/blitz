@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Ramp",
+    "linkedin": "https://www.linkedin.com/company/ramp",
+    "industry": "Financial Services"
+  },
+  {
+    "company": "Sprinklr",
+    "linkedin": "https://www.linkedin.com/company/sprinklr",
+    "industry": "Software Development"
+  },
+  {
+    "company": "Fried, Frank, Harris, Shriver & Jacobson LLP",
+    "linkedin": "https://www.linkedin.com/company/fried-frank",
+    "industry": "Law Practice"
+  },
+  {
+    "company": "Forter",
+    "linkedin": "https://www.linkedin.com/company/forter",
+    "industry": "Software Development"
+  },
+  {
+    "company": "Hinge",
+    "linkedin": "https://www.linkedin.com/company/hingeapp",
+    "industry": "Software Development"
+  },
+  {
+    "company": "Cravath, Swaine & Moore LLP",
+    "linkedin": "https://www.linkedin.com/company/cravath-swaine-&-moore-llp",
+    "industry": "Law Practice"
+  },
+  {
+    "company": "Warburg Pincus",
+    "linkedin": "https://www.linkedin.com/company/warburg-pincus",
+    "industry": "Venture Capital and Private Equity Principals"
+  },
+  {
+    "company": "Blue Owl Capital",
+    "linkedin": "https://www.linkedin.com/company/blue-owl-capital",
+    "industry": "Investment Management"
+  },
+  {
+    "company": "Sycamore Partners",
+    "linkedin": "https://www.linkedin.com/company/sycamore-partners",
+    "industry": "Venture Capital and Private Equity Principals"
+  },
+  {
+    "company": "Primary Venture Partners",
+    "linkedin": "https://www.linkedin.com/company/primary-venture-partners",
+    "industry": "Venture Capital and Private Equity Principals"
+  }
+]
