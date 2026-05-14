@@ -3,3 +3,4 @@
 # Generated outputs
 *.csv
 tier*.json
+results.json
