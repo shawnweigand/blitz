@@ -7,6 +7,7 @@
     "start": "node script.js"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.96.0",
     "dotenv": "^16.0.0"
   }
 }

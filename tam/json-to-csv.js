@@ -86,7 +86,25 @@ if (flatRows.length === 0) {
 }
 
 // --- Collect all headers across all rows ---
-const allHeaders = [...new Set(flatRows.flatMap((row) => Object.keys(row)))];
+const rawHeaders = [...new Set(flatRows.flatMap((row) => Object.keys(row)))];
+
+// Define AI qualification headers to enforce placing them at the far right of the CSV
+const aiHeaders = [
+  'fit',
+  'qualification_score',
+  'tier',
+  'confidence',
+  'title_match',
+  'seniority_level',
+  'geography_fit',
+  'industry_partner_type',
+  'disqualifier_flags',
+  'reasoning',
+];
+
+const standardHeaders = rawHeaders.filter((h) => !aiHeaders.includes(h));
+const presentAiHeaders = aiHeaders.filter((h) => rawHeaders.includes(h));
+const allHeaders = [...standardHeaders, ...presentAiHeaders];
 
 // --- Escape CSV cell ---
 function escapeCell(value) {
