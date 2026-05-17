@@ -1,4 +1,4 @@
-require("dotenv").config({ path: require("path").resolve(__dirname, "../.env") });
+require("dotenv").config({ path: require("path").resolve(__dirname, "../../.env") });
 const fs = require("fs");
 const path = require("path");
 
@@ -7,16 +7,16 @@ const path = require("path");
 const API_KEY = process.env.BLITZ_API_KEY;
 const API_URL = "https://api.blitz-api.ai/v2/search/people";
 
-const OUTPUT_FILE = path.join(__dirname, "tier1.json");
+const OUTPUT_FILE = path.join(__dirname, "tier1-results.json");
 
 // Maximum people returned per API request (API max is 50)
 const MAX_RESULTS_PER_REQUEST = 50;
 
 // Pagination continues until the API returns no cursor (all results collected).
 
-// Rate limit: 5 req/s — enforce a minimum gap between requests.
-// 250 ms gap ≈ 4 req/s, comfortably under the 5 req/s cap.
-const MIN_REQUEST_GAP_MS = 250;
+// Rate limit: 5 req/s total. Since we are running 4 concurrent scripts,
+// we set the gap to 850 ms (~1.17 req/s per script) to stay under the 5 req/s cap globally.
+const MIN_REQUEST_GAP_MS = 850;
 let lastRequestTime = 0;
 
 // ─── Industry Exclusions ──────────────────────────────────────────────────────
@@ -229,6 +229,10 @@ const INDUSTRY_EXCLUDE = [
   "Alternative Dispute Resolution",
   "Nanotechnology Research",
   "Veterinary Services",
+  "Advertising Services",
+  "Public Relations and Communications Services",
+  "Events Services",
+  "Marketing Services",
   // Real Estate subcategories
   "Commercial and Industrial Equipment Rental",
   "Consumer Goods Rental",
@@ -274,9 +278,29 @@ const INDUSTRY_EXCLUDE = [
 // Each section defines an independent search query.
 // The script paginates each section until the API signals no more results.
 
+const JOB_TITLES_INCLUDE = [
+  "Field Marketing",
+  "Events",
+  "Event",
+  "Experiential",
+  "Meeting",
+  "Meetings",
+];
+
+const JOB_TITLES_EXCLUDE = [
+  "Stylist",
+  "Florist",
+  "Cater",
+  "Photographer",
+  "Videographer",
+  "Security",
+  "Rental",
+  "Future",
+];
+
 const SECTIONS = [
   {
-    label: "Field Marketing & Events - NYC Metro HQ",
+    label: "Field Marketing & Events - NYC Metro HQ (11-200)",
     filters: {
       company: {
         hq: {
@@ -284,31 +308,15 @@ const SECTIONS = [
             include: ["New York"],
           },
         },
-        employee_range: ["11-50", "51-200", "201-500", "501-1000", "1001-5000"],
+        employee_range: ["11-50", "51-200"],
         industry: {
           exclude: INDUSTRY_EXCLUDE,
         },
       },
       people: {
         job_title: {
-          include: [
-            "Field Marketing",
-            "Events",
-            "Event",
-            "Experiential",
-            "Meeting",
-            "Meetings",
-          ],
-          exclude: [
-            "Stylist",
-            "Florist",
-            "Cater",
-            "Photographer",
-            "Videographer",
-            "Security",
-            "Rental",
-            "Future",
-          ],
+          include: JOB_TITLES_INCLUDE,
+          exclude: JOB_TITLES_EXCLUDE,
           include_linkedin_headline: true,
         },
         location: {
@@ -318,34 +326,65 @@ const SECTIONS = [
     },
   },
   {
-    label: "Field Marketing & Events - Person in NYC",
+    label: "Field Marketing & Events - NYC Metro HQ (201-5000)",
     filters: {
       company: {
-        employee_range: ["11-50", "51-200", "201-500", "501-1000", "1001-5000"],
+        hq: {
+          city: {
+            include: ["New York"],
+          },
+        },
+        employee_range: ["201-500", "501-1000", "1001-5000"],
         industry: {
           exclude: INDUSTRY_EXCLUDE,
         },
       },
       people: {
         job_title: {
-          include: [
-            "Field Marketing",
-            "Events",
-            "Event",
-            "Experiential",
-            "Meeting",
-            "Meetings",
-          ],
-          exclude: [
-            "Stylist",
-            "Florist",
-            "Cater",
-            "Photographer",
-            "Videographer",
-            "Security",
-            "Rental",
-            "Future",
-          ],
+          include: JOB_TITLES_INCLUDE,
+          exclude: JOB_TITLES_EXCLUDE,
+          include_linkedin_headline: true,
+        },
+        location: {
+          country_code: ["US"],
+        },
+      },
+    },
+  },
+  {
+    label: "Field Marketing & Events - Person in NYC (11-200)",
+    filters: {
+      company: {
+        employee_range: ["11-50", "51-200"],
+        industry: {
+          exclude: INDUSTRY_EXCLUDE,
+        },
+      },
+      people: {
+        job_title: {
+          include: JOB_TITLES_INCLUDE,
+          exclude: JOB_TITLES_EXCLUDE,
+          include_linkedin_headline: true,
+        },
+        location: {
+          city: ["New York"],
+        },
+      },
+    },
+  },
+  {
+    label: "Field Marketing & Events - Person in NYC (201-5000)",
+    filters: {
+      company: {
+        employee_range: ["201-500", "501-1000", "1001-5000"],
+        industry: {
+          exclude: INDUSTRY_EXCLUDE,
+        },
+      },
+      people: {
+        job_title: {
+          include: JOB_TITLES_INCLUDE,
+          exclude: JOB_TITLES_EXCLUDE,
           include_linkedin_headline: true,
         },
         location: {
@@ -464,6 +503,9 @@ async function fetchSection(section) {
 // ─── Main ─────────────────────────────────────────────────────────────────────
 
 async function main() {
+  const targetIndexArg = process.argv[2];
+  const targetIndex = targetIndexArg !== undefined ? parseInt(targetIndexArg, 10) : null;
+
   if (!API_KEY) {
     console.error("Error: BLITZ_API_KEY environment variable is not set.");
     process.exit(1);
@@ -472,6 +514,9 @@ async function main() {
   console.log("=".repeat(60));
   console.log("  Blitz TAM People Search");
   console.log(`  Sections:              ${SECTIONS.length}`);
+  if (targetIndex !== null) {
+    console.log(`  Target Section Index:  ${targetIndex}`);
+  }
   console.log(`  Max results/request:   ${MAX_RESULTS_PER_REQUEST}`);
   console.log("  Pagination:            unlimited (until no cursor)");
   console.log("=".repeat(60));
@@ -490,7 +535,7 @@ async function main() {
       }
       console.log(`\n  Loaded existing results. ${seen.size} known people (will skip duplicates).`);
     } catch {
-      console.warn("  ⚠ Could not parse existing tier1.json — starting fresh.");
+      console.warn("  ⚠ Could not parse existing tier1-results.json — starting fresh.");
       existingOutput = [];
     }
   }
@@ -500,6 +545,7 @@ async function main() {
   let skipped = 0;
 
   for (let i = 0; i < SECTIONS.length; i++) {
+    if (targetIndex !== null && i !== targetIndex) continue;
     const section = SECTIONS[i];
     console.log(`\n[${i + 1}/${SECTIONS.length}] Processing section: "${section.label}"`);
 
@@ -513,22 +559,51 @@ async function main() {
         }
         seen.add(p.linkedin_url);
         return true;
+      }).map((p) => {
+        if (p.experiences && p.experiences.length > 0) {
+          const exp = p.experiences[0];
+          p.company_domain = exp.company_domain;
+          p.company_name = exp.company_name;
+          p.job_title = exp.job_title;
+          p.company_linkedin_url = exp.company_linkedin_url;
+          p.job_is_current = exp.job_is_current;
+          p.job_location = exp.job_location ? JSON.stringify(exp.job_location) : null;
+        }
+        delete p.experiences;
+        return p;
       });
 
-      newPeople += fresh.length;
-
-      // Merge into existing section entry or create a new one
-      const existing = output.find((o) => o.section === section.label);
-      if (existing) {
-        existing.results.push(...fresh);
-      } else {
-        output.push({ section: section.label, results: fresh });
+      // Safe Concurrent Merge
+      let latestOutput = [];
+      if (fs.existsSync(OUTPUT_FILE)) {
+        try {
+          latestOutput = JSON.parse(fs.readFileSync(OUTPUT_FILE, "utf-8"));
+        } catch (e) { }
       }
 
-      // Write after every section so progress is preserved if the script is interrupted
-      fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2), "utf-8");
+      // Deduplicate against the absolutely latest file state
+      const finalSeen = new Set();
+      for (const { results } of latestOutput) {
+        for (const person of results) {
+          if (person.linkedin_url) finalSeen.add(person.linkedin_url);
+        }
+      }
 
-      console.log(`  ✓ Section complete. ${fresh.length} new people added (${skipped} duplicate(s) skipped). Results saved.`);
+      const trulyFresh = fresh.filter(p => !p.linkedin_url || !finalSeen.has(p.linkedin_url));
+      const concurrentlySkipped = fresh.length - trulyFresh.length;
+      skipped += concurrentlySkipped;
+
+      const existing = latestOutput.find((o) => o.section === section.label);
+      if (existing) {
+        existing.results.push(...trulyFresh);
+      } else {
+        latestOutput.push({ section: section.label, results: trulyFresh });
+      }
+
+      fs.writeFileSync(OUTPUT_FILE, JSON.stringify(latestOutput, null, 2), "utf-8");
+
+      newPeople += trulyFresh.length;
+      console.log(`  ✓ Section complete. ${trulyFresh.length} new people added (${skipped} duplicate(s) skipped). Results saved.`);
     } catch (err) {
       console.error(`  ✗ Section failed: ${err.message}`);
     }

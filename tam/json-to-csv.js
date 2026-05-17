@@ -70,12 +70,22 @@ function flattenObject(obj, prefix = '') {
 
 // --- Expand results: each person in results[] becomes its own row ---
 const flatRows = [];
-for (const item of data) {
-  const section = item.section ?? '';
-  const results = Array.isArray(item.results) ? item.results : [];
-  for (const person of results) {
+const isFlat = data.length > 0 && data[0].results === undefined;
+
+if (isFlat) {
+  for (const person of data) {
+    const section = person.section ?? '';
     const flat = flattenObject(person);
     flatRows.push({ section, ...flat });
+  }
+} else {
+  for (const item of data) {
+    const section = item.section ?? '';
+    const results = Array.isArray(item.results) ? item.results : [];
+    for (const person of results) {
+      const flat = flattenObject(person);
+      flatRows.push({ section, ...flat });
+    }
   }
 }
 
