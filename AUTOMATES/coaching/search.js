@@ -130,6 +130,7 @@ async function main() {
         job_title: p.experiences?.[0]?.job_title ?? null,
         company_name: p.experiences?.[0]?.company_name ?? null,
         company_linkedin_url: p.experiences?.[0]?.company_linkedin_url ?? null,
+        company_domain: p.experiences?.[0]?.company_domain ?? null,
         linkedin_url: p.linkedin_url,
         location: p.location ?? null,
         connections_count: p.connections_count ?? null,
