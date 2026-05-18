@@ -108,7 +108,13 @@ async function scorePerson(client, systemPrompt, person) {
     const response = await client.messages.create({
         model: ANTHROPIC_MODEL,
         max_tokens: 1500, // Increased to accommodate full JSON response with reasoning
-        system: systemPrompt,
+        system: [
+            {
+                type: "text",
+                text: systemPrompt,
+                cache_control: { type: "ephemeral" }
+            }
+        ],
         messages: [{ role: "user", content: userMessage }],
     });
 
