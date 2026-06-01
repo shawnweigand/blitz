@@ -1,4 +1,5 @@
 .env
+.DS_store
 
 # Generated outputs
 *.csv
@@ -6,6 +7,7 @@ tier*.json
 results.json
 node_modules
 package-lock.json
+batch*.json
 
 # Temp scripts
 *.py
