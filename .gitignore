@@ -8,6 +8,7 @@ results.json
 node_modules
 package-lock.json
 batch*.json
+*-results.json
 
 # Temp scripts
 *.py
